@@ -1,0 +1,262 @@
+
+UnOfficial ROM Database (Project64.rdb) v4.23 (2012/7/31)
+Changes since Official RDB v1.6.016
+
+
+
+Changes were made ONLY for the following games, and ONLY as described below:
+(any other compatibility changes you see are not the result of updating to this RDB!)
+(*Use Changed Name, please read under text)
+
+Title:									Details:
+64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (J)		Changed Status to Needs video plugin, Changed to Recompiler, Changed SaveType to First Save Type
+AI Shougi 3 (J)								Changed Status=Compatible, Added Cheat0=81068FCE 0000 //freeze fix by Jelta
+Akumajou Dracula Mokushiroku - Real Action Adventure (J)		Changed RDRAM to 4MB, Changed SaveType to 16kbit Eeprom
+Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (J)		Changed SaveType to 16kbit Eeprom
+Biohazard 2 (J)								Changed RDRAM to 8MB, Changed Resolution Width=319,Resolution Height=239
+Baku Bomberman (J)							Changed SMCM to Protected Memory
+Bass Rush - ECOGEAR PowerWorm Championship (J)				Changed Status to Issues (plugin), Added Plugin Note=[video] errors:textures (use Force Alpha Blending),Resolution Height=239
+Beetle Adventure Racing (J)						Changed Status to Issues (plugin), Added Plugin Note=[video] errors:various (see GameFAQ); use D3D6 plugin
+Beetle Adventure Racing! (U) (M3)					Changed Status to Issues (plugin), Added Plugin Note=[video] errors:various (see GameFAQ); use D3D6 plugin
+Body Harvest (E) (M3) 							Changed Culling=0,Added Cheat0=8104DCD2 0808 //Clipping fix
+Body Harvest (U)							Changed Culling=0
+Castlevania (E) (M3)							Changed RDRAM to 4MB
+Castlevania (U) (V1.0/1.2)						Changed RDRAM to 4MB
+Chou Kuukan Nighter Pro Yakyuu King (J)					Removed Plugin Note=D3D6
+Chou Kuukan Nighter Pro Yakyuu King 2 (J)				Removed Plugin Note=D3D6
+Dark Rift (E/U)								Changed CF to 1, Use Large Buffer=Yes, Culling=1
+Densha de GO! 64 (J)							Changed Statusto Compatible, CPU Type to Recompiler, Linking=Off,Cheat0=81046576 0000 //freeze fix by Jelta
+Destruction Derby 64 (E/U)						Changed Linking=Off
+Derby Stallion 64 (J)							Changed Status to Compatible, CPU Type to Recompiler, Linking=Off, Removed Core Note, Added Cheat0=D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
+Dual Heroes (E/J/U)							Changed RDRAM to 4MB
+Doraemon 2 - Nobita to Hikari no Shinden (J)				Changed Status to Issues (plugin)
+Doraemon 3 - Nobita no Machi SOS! (J)					Changed Status to Compatible, Use TLB=No,Linking=off,Reg Cache=No, deleted Core Note,Cheat0=8104ECD6 0000 //freeze fix by Jelta
+Doubutsu no Mori (J)							Changed Status to Issues (plugin), Added Subscreen Delay Fix
+Excitebike 64 (E/J/U)							Changed Status to Compatible, Removed Plugin Note
+Excitebike 64 (U) (Kiosk Demo)						Changed Status to Compatible, Removed Plugin Note
+Extreme-G (E/J/U)							Changed ABL to Off
+Extreme-G XG2(E/J/U)							Changed ABL to Off
+F-ZERO X (J)								Changed SMCM to CMA, Removed Clear Frame=2
+F-ZERO X (E/U)								Removed Clear Frame=2
+Famista 64 (J)								Changed Status to Issues (plugin), Removed "Clear Frame=1"
+FIFA Soccer 64 (E/U) (M3)						Changed Status to Issues (core), RDRAM Size=4, CPU Type=Recompiler, SMCM=Cache, Linking=Off, Reg Cache=No, removed Core Note, added Cheat0=Cheat0=810C1104 2400
+Ganbare! Nippon! Olympics 2000 (J)					Changed Resolution Width=319,Resolution Height=239
+Gauntlet Legends (E/J/U)						Changed CF to 1,
+Getter Love!! - Cho Ren-ai Party Game (J)				Changed Status to Issues (plugin)
+GoldenEye 007 (E/J/U)							Changed CF to 1
+Heiwa Pachinko World 64 (J)						Changed Status to Unsupported, Changed RDRAM to 4MB
+Hyper Olympics in Nagano 64 (J)						Changed ABL to Off, Changed Freeze Fix Cheat to 81000470 2400,810005D0 2400
+Hamster Monogatari 64 (J)						Changed Status to Cache, Adde Core Note=unsupported
+Ide Yousuke no Mahjong Juku (J)						Changed Status to Issues (plugin), CPU Type=Recompiler, Save Type to 16kbit Eeprom, Linking=Off, Core Note=create save file first, Added Cheat0=8100363C 2400
+International Track and Field 2000 (U)					Changed Resolution Width=319,Resolution Height=239
+International Track and Field Summer Games (E)				Changed Resolution Width=319,Resolution Height=239, Changed RDRAM to 8MB
+J.League Eleven Beat 1997 (J)						Changed Status to Compatible, Changed CF to 1
+J.League Dynamite Soccer 64 (J)						Changed SMCM to Protected Memory
+Jangou Simulation Mahjong Dou 64 (J)					Chnanged Status to Compatible, added Cheat0=D101BDA6 1FFF,8101BDA6 107F
+Jikkyou G1 Stable (J) (V1.0/1.1)					Changed CF to 1
+Jikkyou J.League Perfect Striker (J)					Changed CF to 1
+Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (J) (V1.0/1.1)		Changed CF to 2
+Jikkyou World Soccer - World Cup France '98 (J) (V1.0/1.1/1.2)		Changed RDRAM to 4MB, Changed SMCM to Check Memory Advance
+King Hill 64 - Extreme Snowboarding (J)					Changed Status to Issues (mixed), Changed RDRAM to 4MB
+Kiratto Kaiketsu! 64 Tanteidan (J)					Changed CF to 1, Changed ABL to Off
+Last Legion UX (J)							Changed to Recompiler, Changed RDRAM to 4MB
+LEGO Racers (E/U) 							Changed Linking=Off
+Mario Tennis 64 (J)							Changed RDRAM to 4MB
+Mario Story (J)								Added Subscreen Delay Fix
+Mahjong Hourouki Classic (J)						Changed Status to Issues (plugin)
+Ms. Pac-Man Maze Madness (U)						Changed Linking=Off
+Nagano Winter Olympics '98 (E)						Changed Freeze Fix Cheat to 81000484 2400,810005F0 2400
+Nagano Winter Olympics '98 (U)						Changed Freeze Fix Cheat to 81000470 2400,810005B8 2400
+Nushi Tsuri 64 - Shiokaze ni Notte (J)					Changed to Recompiler, Changed SMCM to Protected Memory, Changed RDRAM to 4MB, Changed CF to 1, TLB=On, RegCache=On
+Neon Genesis Evangelion (J)						Changed Status to Issues (plugin)
+Paper Mario (E/U)							Added Subscreen Delay Fix
+Parlor! Pro 64 - Pachinko Jikki Simulation Game (J)			Changed SMCM to CMA, Changed SaveType to 16kbit Eeprom, TLB=On, RegCache=On
+Pokemon Stadium Kin Gin (J)						Changed RDRAM to 8MB
+Puyo Puyo Sun 64 (J)							Changed Status to Compatible
+Rally '99 (J)								Changed Status to Issues (plugin)
+Resident Evil 2 (E/U)							Changed RDRAM to 8MB, Changed Resolution Width=319,Resolution Height=239
+Robot Ponkottsu 64 - 7tsu no Umi no Caramel (J)				Changed Status to Compatible
+Saikyou Habu Shougi (J)							Changed RDRAM to 4MB
+Shadow Man (E/F/G/U)							Changed Linking=Off
+Shin Nihon Pro wrestling Toukon Road - Brave Spirits (J)		Changed RDRAM to 4MB, Delay SI=Yes
+Shin Nihon Pro wrestling Toukon Road 2 - The Next Generation (J)	Changed to Recompiler, Changed RDRAM to 4MB
+Star Wars - Rogue Squadron (E) (V1.1)					Changed Internal Name to "rogue squadron"
+StarCraft 64 (E/U/Beta)							Changed Linking=Off
+Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (J)			Changed SMCM to Protected Memory
+Super B-Daman - Battle Phoenix 64 (J)					Changed Status to Compatible, Removed Plugin Note=[video] slow - ok in game?
+Super Robot Spirits (J)							Changed Status to Needs video plugin, Plugin Note=[video] missing graphics
+Space Dynamites (J)							Changed RDRAM to 4MB
+Sydney 2000 (E)								Changed Status to Compatible, added Cheat0=80000303 0000
+The Legend of Zelda - Ocarina of Time (U) (V1.0)			Changed Cheat to Cheat0=D109C5AC 0C02,8109C5AC 2400 //Subscreen Delay Fix,Cheat1=D138E8CC 0C0E,8138E8CC 2400 //Equipment Screen Delay Fix
+The Legend of Zelda - Ocarina of Time (U) (V1.1)			Changed Cheat to Cheat0=D109C5BC 0C02,8109C5BC 2400 //Subscreen Delay Fix,Cheat1=D138EA6C 0C0E,8138EA6C 2400 //Equipment Screen Delay Fix
+The Legend of Zelda - Ocarina of Time (U) (V1.2)			Changed Cheat to Cheat0=D109CC9C 0C02,8109CC9C 2400 //Subscreen Delay Fix,Cheat1=D138F07C 0C0E,8138F07C 2400 //Equipment Screen Delay Fix
+Top Gear Overdrive (E/J/U)						Changed to Recompiler, Changed Status to Issues (plugin), Changed ABL to Off, Changed SMCM to Check Memory & Cache, Changed Resolution Width=319,Resolution Height=239
+Transformers - Beast Wars Metals 64 (J)					Changed Status to Compatible
+Transformers - Beast Wars Transmetal (U)				Changed Status to Compatible
+Turok 3 - Shadow of Oblivion (U) (Beta-WIP)				Re-added, added Cheat0=80000303 0001, changed RDRAM Size=8
+Twisted Edge Extreme Snowboarding (E/U)					Changed RDRAM to 4MB
+Vigilante 8 - 2nd Offense (E/U)						Changed Linking=Off
+Virtual Pro Wrestling 64 (J)						Changed ABL to Off, Changed ABL to Off, Use Large Buffer=Yes, SP Hack=Yes
+Wonder Project J2 - Corlo no Mori no Josette (J)			Removed Core Note
+Yakouchuu II - Satsujin Kouro (J)					Changed Status to Issues (plugin), Removed Core Note, Changed CF to 1, Changed RDRAM to 4MB, Added Cheat=811B20C0 0000,811B20C2 0000
+Zelda no Densetsu - Mujura no Kamen (J) (V1.1)				Changed SMCM to CMA, Changed Status to Issues (plugin)
+Zelda no Densetsu - Mujura no Kamen - Zelda Collection Version (J) (GC)	Changed Status to Issues (plugin)
+Zelda no Densetsu - Toki no Ocarina (J) (V1.0)				Changed Cheat to Cheat0=D109C5AC 0C02,8109C5AC 2400 //Subscreen Delay Fix,Cheat1=D138E8CC 0C0E,8138E8CC 2400 //Equipment Screen Delay Fix
+Zelda no Densetsu - Toki no Ocarina (J) (V1.1)				Changed Cheat to Cheat0=D109C5BC 0C02,8109C5BC 2400 //Subscreen Delay Fix,Cheat1=D138EA6C 0C0E,8138EA6C 2400 //Equipment Screen Delay Fix
+Zelda no Densetsu - Toki no Ocarina (J) (V1.2)				Changed Cheat to Cheat0=D109CC9C 0C02,8109CC9C 2400 //Subscreen Delay Fix,Cheat1=D138F07C 0C0E,8138F07C 2400 //Equipment Screen Delay Fix
+
+
+Added Microcode:
+
+	E21EA8D7=0//Kiratto Kaiketsu! 64 Tanteidan (J) (Nekokabu)
+	0FC02520=0//Kiratto Kaiketsu! 64 Tanteidan (J) (Nekokabu)
+	E46FD8D3=0 //Tamiya Racing
+
+New Entry Roms:
+
+
+	[2F33EFCA-6CA95A9C-C:0] 	Funnel Cube (PD)
+	[ABA51D09-C668BAD9-C:58]	40 Winks (E) (M3) (Beta)
+	[112051D2-68BEF8AC-C:45]	Aidyn Chronicles - The First Mage (U) (V1.1)
+	[CD7559AC-B26CF5AE-C:45]	Banjo-Kazooie (U) (V1.1)
+	[CA2A7444-71DAB71C-C:50]	California Speed (E) (M5)
+	[96BA4EFB-C9988E4E-C:0] 	Derby Stallion 64 (J) (Beta)
+	[40DFEDA0-3AA09CB2-C:50]	Dragon Sword (E) (Unreleased Alpha)
+	[53CCAD28-AEA6EDA2-C:45]	F1 Racing Championship (B)
+	[C006E3C0-A67B4BBB-C:50]	F-1 World Grand Prix (E)
+	[665FC793-6934A73B-C:44]	Turok - Dinosaur Hunter (G) (V1.1)/(V1.2)
+	[847BA4C2-1D3128F8-C:4A]	IPL4ROM (J)
+	[C6CE0AAA-D117F019-C:4A]	J.League Tactics Soccer (J) (V1.1)
+	[575F340B-9F1398B2-C:4A]	Jikkyou G1 Stable (J) (V1.1)
+	[6309FC17-1D4F5EF3-C:4A]	Jikkyou J.League 1999 - Perfect Striker 2 (J) (V1.1)
+	[1C8CDF74-F761051F-C:4A]	Jikkyou Powerful Pro Yakyuu 5 (J) (V1.1)
+	[AC173077-5A14C012-C:4A]	Jikkyou Powerful Pro Yakyuu 5 (J) (V1.2)
+	[3C084040-081B060C-C:4A]	Jikkyou Powerful Pro Yakyuu 6 (J) (V1.1)
+	[438E6026-3BA24E07-C:4A]	Jikkyou Powerful Pro Yakyuu 6 (J) (V1.2)
+	[B00E3829-29F232D1-C:4A]	Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (J) (V1.1)
+	[734F816B-C6A6EB67-C:4A]	Mario Golf 64 (J) (V1.1)
+	[21548CA9-9059F32C-C:0]		Mini Racers (Unreleased)
+ 	[BFA526B4-0691E430-C:45]	Mischief Makers (U) (V1.1)
+	[19F55D46-73A27B34-C:45]	Mortal Kombat Trilogy (U) (V1.1)
+	[C5F1DE79-5D4BEB6E-C:4A]	Nushi Tsuri 64 (J) (V1.1)
+	[0ADAECA7-B17F9795-C:45]	Ogre Battle 64 - Person of Lordly Caliber (U) (V1.0)
+	[E0044E9E-CD659D0D-C:4A]	Pokemon Snap (J) (V1.1)
+	[0AE2B37C-FBC174F0-C:4A]	Pro Mahjong Kiwame 64 (J) (V1.1)
+	[2F493DD0-2E64DFD9-C:45]	Resident Evil 2 (U) (V1.0)
+	[569433AD-F7E13561-C:45]	Scooby-Doo - Classic Creep Capers (U) (V1.1)
+	[93A625B9-2D6022E6-C:42]	Shadow Man (B)
+	[D21AF769-DE1A0E3D-C:42]	South Park (B)
+	[65AEDEEF-3857C728-C:4A]	Star Fox 64 (J) (V1.1)
+ 	[C7F30CFA-ECB0FA36-C:45]	Star Wars - Rogue Squadron (U) (V1.1)
+	[FD6907F0-83CBC160-C:44]	Starcraft 64 (G) (Beta)
+	[ECBD95DD-1FAB637D-C:00]	Sydney 2000 (E) (Unreleased)
+	[80A78080-5F9F8833-C:00]	Sydney 2000 (U) (Unreleased)
+	[37955E65-C6F2B7B3-C:0]		Tamiya Racing 64 (Unreleased)
+	[6C2C6C49-9BE5CA66-C:45]	Taz Express (U) (Unreleased)
+	[9FC385E5-3ECC05C7-C:50]	The Legend of Zelda - Majora's Mask (E) (M4) (Debug Version)
+	[21260D94-06AE1DFE-C:45]	Tommy Thunder (U) (Unreleased Alpha)
+	[9A746EBF-2802EA99-C:0] 	Toon Panic (J) (Beta)
+	[665FC793-6934A73B-C:44]	Turok - Dinosaur Hunter (G) (V1.1)/(V1.2)
+	[E0B92B94-B9A7E025-C:45]	Turok 2 - Seeds of Evil (U) (V1.1)
+	[37FA8F16-5F824D37-C:44]	Turok 3 - Shadow of Oblivion (G) (Beta)
+	[D25C1211-13EEBF67-C:44]	Turok 3 - Shadow of Oblivion (G) (Beta-WIP)
+	[2388984C-DA7B3CC5-C:45]	Turok - Rage Wars (U) (V1.1)
+ 	[DD318CE2-B73798BA-C:45]	Waialae Country Club - True Golf Classics (U) (V1.1) [!]
+	[A04237B9-68F62C72-C:0]		Wildwaters (Unreleased)
+	[C52E0BC6-56BC6556-C:4A]	WinBack (J) (V1.1)
+ 	[6C80F13B-427EDEAA-C:45]	WWF No Mercy (U) (V1.1) [!]
+
+
+the following ROMs have other types of name changes - these *were* renamed in the RDB
+( ** THIS RENAME IS *NOT* OFFICIAL !!!)
+
+	
+	
+	N:"A Bug's Life (E)",								O:"Bug's Life, A (E)"
+	N:"A Bug's Life (F)",								O:"Bug's Life, A (F)"
+	N:"A Bug's Life (G)",								O:"Bug's Life, A (G)"
+	N:"A Bug's Life (I)",								O:"Bug's Life, A (I)"
+	N:"A Bug's Life (U)",								O:"Bug's Life, A (U)"
+	N:"Aidyn Chronicles - The First Mage (U) (V1.0)"				O:"Aidyn Chronicles - The First Mage (U)"
+	N:"The Legend of Zelda - Majora's Mask (E) (M4) (V1.0)",			O:"Legend of Zelda, The - Majora's Mask (E) (M4) (V1.0)"
+	N:"The Legend of Zelda - Majora's Mask (U)",					O:"Legend of Zelda, The - Majora's Mask (U)"
+	N:"The Legend of Zelda - Majora's Mask - Collector's Edition (E) (M4) (GC)",	O:"Legend of Zelda, The - Majora's Mask - Collector's Edition (E) (M4) (GC)"
+	N:"The Legend of Zelda - Majora's Mask - Preview Demo (U)",			O:"Legend of Zelda, The - Majora's Mask - Preview Demo (U)"
+	N:"The Legend of Zelda - Ocarina of Time (E) (GC)",				O:"Legend of Zelda, The - Ocarina of Time (E) (GC)"
+	N:"The Legend of Zelda - Ocarina of Time (E) (M3 (V1.0)",			O:"Legend of Zelda, The - Ocarina of Time (E) (M3) (V1.0)"
+	N:"The Legend of Zelda - Ocarina of Time (E) (M3 (V1.1)",			O:"Legend of Zelda, The - Ocarina of Time (E) (M3) (V1.1)"
+	N:"The Legend of Zelda - Ocarina of Time (U) (GC)",				O:"Legend of Zelda, The - Ocarina of Time (U) (GC)"
+	N:"The Legend of Zelda - Ocarina of Time (U) (V1.0)",				O:"Legend of Zelda, The - Ocarina of Time (U) (V1.0)"
+	N:"The Legend of Zelda - Ocarina of Time (U) (V1.1)",				O:"Legend of Zelda, The - Ocarina of Time (U) (V1.1)"
+	N:"The Legend of Zelda - Ocarina of Time (U) (V1.2)",				O:"Legend of Zelda, The - Ocarina of Time (U) (V1.2)"
+	N:"The Legend of Zelda - Ocarina of Time - Master Quest (E) (GC)",		O:"Legend of Zelda, The - Ocarina of Time - Master Quest (E) (GC)"
+	N:"The Legend of Zelda - Ocarina of Time - Master Quest (U) (GC)",		O:"Legend of Zelda, The - Ocarina of Time - Master Quest (U) (GC)"
+	N:"The Powerpuff Girls - Chemical X-traction (U)",				O:"Powerpuff Girls, The - Chemical X-Traction (U)"
+	N:"The New Tetris (E)",								O:"New Tetris, The (E)"
+	N:"The New Tetris (U)",								O:"New Tetris, The (U)"
+	N:"G.A.S.P!! Fighters' NEXTream (E)",						O:"G.A.S.P!! Fighter's NEXTream (E)"
+	N:"64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (J)"			O:"64 de Hakken!! Tamagotchi Minna de Tamagotchi World (J)"
+	N:"Beetle Adventure Racing (J)"							O:"Beetle Adventure Racing! (J)"
+	N:"Bokujou Monogatari 2 (J) (V1.0)"						O:"Bokujou Monogatari 2 (J)"
+	N:"Bomberman 64 (J)"								O:"Bomberman 64 - Arcade Edition (J)"
+	N:"Chameleon Twist 2 (J)"							O:"Chameleon Twist 2 (J) [o1]"
+	N:"Chou Kuukan Nighter Pro Yakyuu King (J)"					O:"Chou Kuukan Night Pro Yakyuu King (J)"
+	N:"Chou Kuukan Nighter Pro Yakyuu King 2 (J)"					O:"Chou Kuukan Night Pro Yakyuu King 2 (J)"
+	N:"City Tour Grandprix - Zennihon GT Senshuken (J)"				O:"City-Tour GP - Zennihon GT Senshuken (J)"
+	N:"Dance Dance Revolution - Disney Dancing Museum (J)"				O:"Dance Dance Revolution - Disney Dancing Museum (J) [o1]"
+	N:"Diddy Kong Racing (J)"							O:"Diddy Kong Racing (J)"
+	N:"F-1 World Grand Prix (E) (beta)"						O:"F-1 World Grand Prix (E)"
+	N:"Turok - Dinosaur Hunter (G) (V1.0)"						O:"Turok - Dinosaur Hunter (G)"
+	N:"G.A.S.P!! Fighters' NEXTream (J)"						O:"G.A.S.P!! Fighter's NEXTream (J)"
+	N:"Goemon - Mononoke Sugoroku (J)"						O:"Ganbare Goemon - Mononoke Sugoroku (J)"
+	N:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"				O:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"
+	N:"Ganbare! Nippon! Olympics 2000 (J)"						O:"Ganbare Nippon! Olympics 2000 (J)"
+	N:"Getter Love!! - Cho Ren-ai Party Game (J)"					O:"Getter Love!! (J)"
+	N:"Harukanaru Augusta - Masters '98 (J)"					O:"Harukanaru Augusta Masters 98 (J)"
+	N:"Hyper Olympics in Nagano 64 (J)"						O:"Hyper Olympics Nagano 64 (J)"
+	N:"Ide Yosuke no Mahjong Juku (J)"						O:"Ide Yosuke no Mahjong Juku (J) [b1]"
+	N:"J.League Eleven Beat 1997 (J)"						O:"J.League Eleven Beat 1997 (J)"
+	N:"Jangou Simulation Mahjong Dou 64 (J)"					O:"Jangou Simulation Mahjong Do 64 (J)"
+	N:"Jikkyou G1 Stable (J) (V1.0)"						O:"Jikkyou G1 Stable (J)"
+	N:"Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (J) (V1.0)"			O:"Jikkyou Powerful Pro Yakyuu - Basic Han 2001 (J)"
+	N:"Jikkyou Powerful Pro Yakyuu 5 (J) (V1.0)"					O:"Jikkyou Powerful Pro Yakyuu 5 (J)"
+	N:"Jikkyou Powerful Pro Yakyuu 6 (J) (V1.0)"					O:"Jikkyou Powerful Pro Yakyuu 6 (J)"
+	N:"Kiratto Kaiketsu! 64 Tanteidan (J)"						O:"Kira to Kaiketsu! 64 Tanteidan (J)"
+	N:"Let's Smash (J)"								O:"Let's Smash Tennis (J)"
+	N:"Magical Tetris Challenge featuring Mickey (J)"				O:"Magical Tetris Challenge Featuring Mickey (J)"
+	N:"Mario Golf 64 (J) (V1.0)"							O:"Mario Golf 64 (J) [o1]"
+	N:"Ogre Battle 64 - Person of Lordly Caliber (U) (V1.0)"			O:"Ogre Battle 64 - Person of Lordly Caliber (U)"
+	N:"Pikachu Genki Dechuu (J)"							O:"Pikachu Genki Dechu (J)"
+	N:"Pokemon Snap (J)"								O:"Pocket Monsters Snap (J)"
+	N:"Pokemon Stadium (J)"								O:"Pocket Monsters Stadium (J)"
+	N:"Pokemon Stadium (U) (V1.0)"							O:"Pokemon Stadium (U)"
+	N:"Pokemon Stadium 2 (J)"							O:"Pocket Monsters Stadium 2 (J)"
+	N:"Pokemon Stadium Kin Gin (J)"							O:"Pocket Monsters Stadium Kin Gin (J)"
+	N:"Power League 64 (J)"								O:"Power League Baseball 64 (J)"
+	N:"Pro Mahjong Kiwame 64 (J) (V1.0)"						O:"Pro Mahjong Kiwame 64 (J)"
+	N:"Puyo Puyon Party (J)"							O:"Puyo Puyo 4 - Puyo Puyo Party (J)"
+	N:"Robot Ponkottsu 64 - 7tsu no Umi no Caramel (J)"				O:"Robot Ponkotsu 64 - 7tsu no Umi no Caramel (J)"
+	N:"Rockman Dash - Hagane no Boukenshin (J)"					O:"Rockman Dash (J)"
+	N:"Ide Yousuke no Mahjong Juku (J) [!]"						O:"Ide Yosuke no Mahjong Juku (J) [!]"
+	N:"Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (J)"				O:"Shigesato Itoi's No. 1 Bass Fishing! Definitive Edition (J)"
+	N:"Scooby-Doo - Classic Creep Capers (U) (V1.0)"				O:"Scooby-Doo - Classic Creep Capers (U)"
+	N:"Shin Nihon Pro wrestling Toukon Road - Brave Spirits (J)"			O:"Shin Nihon Pro Wrestling - Toukon Road - Brave Spirits (J)"
+	N:"Shin Nihon Pro wrestling Toukon Road 2 - The Next Generation (J)"		O:"Shin Nihon Pro Wrestling - Toukon Road 2 - The Next Generation (J)"
+	N:"Star Fox 64 (J) (V1.0)"							O:"Star Fox 64 (J)"
+	N:"Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (J)"			O:"Susume! Taisen Puzzle Dama Toukon! Marumata Chou (J)"
+	N:"Turok - Dinosaur Hunter (G) (V1.0)"						O:"Turok - Dinosaur Hunter (G)"
+	N:"Turok - Rage Wars (U) (V1.0)"						O:"Turok - Rage Wars (U)"
+	N:"Turok 3 - Shadow of Oblivion (G) (Beta-WIP)"					O:"Turok 3 - Shadow of Oblivion (G) (Beta)"
+	N:"Jikuu Senshi Turok (J)"							O:"Tokisora Senshi Turok (J)"
+	N:"Ucchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (J)"		O:"Uchhannanchan no Hono no Challenger - Denryu IraIra Bou (J)"
+	N:"Wave Race 64 (J) (V1.0)"							O:"Wave Race 64 (J)"
+	N:"WinBack (J) (V1.0)"								O:"WinBack (J)"
+	N:"Wonder Project J2 - Corlo no Mori no Josette (J)"				O:"Wonder Project J2 - Koruro no Mori no Jozet (J)"
+	N:"Zelda no Densetsu - Mujura no Kamen - Zelda Collection Version (J) (GC)"	O:"Zelda no Densetsu - Mujura no Kamen (J) (GC)"
+
+
+
+
+
+UnOffical RDB
+Nekokabu & Masa. 

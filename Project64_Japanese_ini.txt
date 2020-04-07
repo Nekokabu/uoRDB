@@ -1,0 +1,436 @@
+---------------------------------------------------------------
+---------------------------------------------------------------
+Project64 Ver.1.6
+日本語版iniデータベース Ver.4.23 by ねこかぶ & まさ
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+★注意：
+
+Project64 Ver.1.6用です。一部制限がありますがProject64 Ver.1.5でも使用できます。
+
+
+●説明：
+
+Project64 Ver.1.4より、iniファイルにGoodN64のデータベースが追加され、ランチャー
+的な使用も可能になりました。
+
+しかし基本的にGoodN64のデータベースは英語のため、日本のゲームタイトルとの対応が
+分かりにくくなっています。
+
+このiniファイルを使用することにより、Project64上で日本語のタイトルを表示するこ
+とが可能になります。
+
+一部GoodN64登録外のソフトも認識されます。
+私が吸出したイメージの情報で登録してあります。
+
+日本語表示以外にも個別タイトルの動作修正を行っています。
+変更箇所につきましては同梱の動作情報ノートを参照してください。
+
+なお日本語タイトルはやま氏作(http://jump.mixs.com/yamatool/)のJPn64に
+準拠し（やま氏の許可を得て配布しています）、一部変更を行っています。
+
+最新版のiniファイル及び最新の動作情報は、
+ねこかぶのHP(http://nekokabu.s7.xrea.com)、代理公開先の
+PlayEmu(http://www.playemu.com/)上で確認することができます。
+
+このファイルの適用は全て自己責任で行ってください。
+不具合やその他の動作修正案がございましたら下記までご報告お願いします。
+nekokabu@gmail.com
+
+
+●使い方：
+
+解凍してできるProject64.rdbをProject64実行ファイルと同じフォルダにコピーします。
+(必ず元のProject64.rdbをバックアップしておいてください)
+
+ファイルメニューよりRefresh Rom List(ロムリストの更新)を選択します。
+(重要：これを実行しないとランチャー上で反映されません！)
+
+同じフォルダに動作情報ノートを置いておくと、HelpメニューのAbout INI→
+Visit HomePageをクリックすることで即座に参照することができます。
+
+
+●謝辞
+
+数々の動作検証に協力していただいた STIGMATA氏
+(http://www.geocities.co.jp/Playtown-King/5492/)
+
+日本語タイトルデータベースを利用させてくださった やま氏
+(http://jump.mixs.com/yamatool/)
+
+データベースへの情報を提供してくださった ねこかぶ氏
+(http://nekokabu.s7.xrea.com/)
+
+エミュ情報の宝庫、交流の場を提供するEmuTalk.net
+(http://www.emutalk.net)
+
+ロム情報を提供してくれたNo-Intro projectの人
+(http://www.no-intro.org/)
+
+Project64サポートのSmiff、Gent
+
+ロム情報を提供してくれるolivieryuyu
+
+日本語版iniデータベースを作ってくださったまさ氏
+
+その他テストに参加していただいたすべての方々に感謝いたします。
+
+
+●更新履歴
+Ver.4.23
+	・設定の変更
+		Jangou Simulation Mahjong Dou 64 (J)	Chnanged Status to Compatible, added Cheat0=D101BDA6 1FFF,8101BDA6 107F
+
+	・マイクロコードの追加:
+		E46FD8D3=0 //Tamiya Racing
+
+	・未登録ゲームの新規追加
+		[21548CA9-9059F32C-C:0]		Mini Racers (Unreleased)
+		[37955E65-C6F2B7B3-C:0]		Tamiya Racing 64 (Unreleased)
+		[A04237B9-68F62C72-C:0]		Wildwaters (Unreleased)
+		[37FA8F16-5F824D37-C:44]	Turok 3 - Shadow of Oblivion (G) (Beta)
+		[112051D2-68BEF8AC-C:45]	Aidyn Chronicles - The First Mage (U) (V1.1)
+		[569433AD-F7E13561-C:45]	Scooby-Doo - Classic Creep Capers (U) (V1.1)
+		[2388984C-DA7B3CC5-C:45]	Turok - Rage Wars (U) (V1.1)
+
+	・名前の変更
+		N:"Aidyn Chronicles - The First Mage (U) (V1.0)"		O:"Aidyn Chronicles - The First Mage (U)"
+		N:"Scooby-Doo - Classic Creep Capers (U) (V1.0)"		O:"Scooby-Doo - Classic Creep Capers (U)"
+		N:"Turok - Rage Wars (U) (V1.0)"				O:"Turok - Rage Wars (U)"
+		N:"Turok 3 - Shadow of Oblivion (G) (Beta-WIP)"			O:"Turok 3 - Shadow of Oblivion (G) (Beta)"
+
+	
+Ver.4.22
+	・設定の変更
+		FIFA Soccer 64 (E/U) (M3)		Changed Status to Issues (core), RDRAM Size=4, CPU Type=Recompiler, SMCM=Cache, Linking=Off, Reg Cache=No, removed Core Note, added Cheat0=Cheat0=810C1104 2400
+
+	・未登録ゲームの新規追加
+		[665FC793-6934A73B-C:44]	Turok - Dinosaur Hunter (G) (V1.1)/(V1.2)
+
+	・名前の変更
+		N:"Turok - Dinosaur Hunter (G) (V1.0)"	O:"Turok - Dinosaur Hunter (G)"
+
+
+Ver.4.21
+	・設定の変更
+		Sydney 2000 (E) (Unreleased)		Changed Status to Compatible, added Cheat0=80000303 0000
+		Turok 3 - Shadow of Oblivion (U) (Beta)	Re-added, added Cheat0=80000303 0001, changed RDRAM Size=8
+
+Ver.4.20
+	・未登録ゲームの新規追加
+		[CA2A7444-71DAB71C-C:50]	California Speed (E) (M5)
+		[40DFEDA0-3AA09CB2-C:50]	Dragon Sword (E) (Unreleased Alpha)
+		[53CCAD28-AEA6EDA2-C:45]	F1 Racing Championship (B)
+		[93A625B9-2D6022E6-C:42]	Shadow Man (B)
+		[D21AF769-DE1A0E3D-C:42]	South Park (B)
+		[FD6907F0-83CBC160-C:44]	Starcraft 64 (G) (Beta)
+		[ECBD95DD-1FAB637D-C:00]	Sydney 2000 (E) (Unreleased)
+		[80A78080-5F9F8833-C:00]	Sydney 2000 (U) (Unreleased)
+		[6C2C6C49-9BE5CA66-C:45]	Taz Express (U) (Unreleased)
+		[847BA4C2-1D3128F8-C:4A]	IPL4ROM (J)
+		
+	・設定の変更
+		*apply some changing from Henryxs87's RDB
+		Destruction Derby 64 (E/U)	Changed Linking=Off
+		LEGO Racers (E/U) 		Changed Linking=Off
+		Ms. Pac-Man Maze Madness (U)	Changed Linking=Off
+		Shadow Man (E/F/G/U)		Changed Linking=Off
+		StarCraft 64 (E/U/Beta)		Changed Linking=Off
+		Vigilante 8 - 2nd Offense (E/U)	Changed Linking=Off
+		
+Ver.4.19
+	・設定の変更
+		Jikkyou World Soccer - World Cup France '98 (J) (V1.0/1.1/1.2)	Changed SMCM to Check Memory Advance
+		Zelda no Densetsu - Toki no Ocarina (J) (V1.0/1.1/1.2)		Added Equipment Screen Delay Fix Cheat
+		The Legend of Zelda - Ocarina of Time (U) (V1.0/1.1/1.2)	Added Equipment Screen Delay Fix Cheat
+
+	・修正
+		がんばれ!ニッポン! オリンピック2000 (J)		Resolution Width、Heightの値を間違えていたのを修正
+
+Ver.4.18
+	・未登録ゲームの新規追加
+		[9FC385E5-3ECC05C7-C:50]	The Legend of Zelda - Majora's Mask (E) (M4) (Debug Version)	(Thank you Prince Kassad!!)
+
+	・設定の変更
+		Derby Stallion 64 (J)		Changed Save Fix Cheat to D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
+		Hyper Olympics in Nagano 64 (J)	Changed Freeze Fix Cheat to 81000470 2400,810005D0 2400
+		Nagano Winter Olympics '98 (E)	Changed Freeze Fix Cheat to 81000484 2400,810005F0 2400
+		Nagano Winter Olympics '98 (U)	Changed Freeze Fix Cheat to 81000470 2400,810005B8 2400
+
+	・名前の変更
+		N:"ポケモンスタジアム 金銀 (J)"	O:"ポケモンスタジアム 金･銀 (J)"
+		
+	・その他
+		RDBにコメントを追加:)
+		
+
+Ver.4.17:
+	・設定の変更
+		Ide Yousuke no Mahjong Juku (J)		Changed Status to Issues (plugin), Save Type to 16kbit Eeprom, Added Core Note=create save file first, Cheat0=8100363C 2400
+		Derby Stallion 64 (J)			Changed Status to Compatible, CPU Type to Recompiler, Linking=Off, Removed Core Note, Added Cheat0=8125D0F2 0001
+
+	*名前の変更:
+		N:"Ide Yousuke no Mahjong Juku (J) [!]"	O:"Ide Yosuke no Mahjong Juku (J) [!]"
+
+Ver.4.16:
+	・設定の変更
+		Ide Yosuke no Mahjong Juku (J)			Changed Status to Uncertain, CPU Type=Recompiler, Linking=Off, Core Note=slow, Added Cheat0=8100363C 2400,810ECCCA 0001,810ECE46 0001
+
+Ver.4.15:
+	・設定の変更
+		GoldenEye 007 (E/J/U)	Changed CF to 2
+		AI Shougi 3 (J)							Changed Status=Compatible, Added Cheat0=81068FCE 0000
+		Densha de GO! 64 (J)					Changed Statusto Compatible, CPU Type to Recompiler, Linking=Off,Cheat0=81046576 0000
+		Doraemon 3 - Nobita no Machi SOS! (J)	Changed Status to Compatible, Use TLB=No,Linking=off,Reg Cache=No, deleted Core Note,Cheat0=8104ECD6 0000
+
+		Jeltaさん、ありがとうございました。
+	
+Ver.4.14:
+	・設定の変更
+		Doubutsu no Mori (J)	Added Subscreen Delay Fix
+		GoldenEye 007 (E/J/U)	Changed CF to 2
+		Mario Story (J)		Added Subscreen Delay Fix
+		Paper Mario (E/U)	Added Subscreen Delay Fix
+
+Ver.4.13:
+	・修正
+		新しく吸い出されたオウガバトルはV1.1だったのを修正
+		とりあえずTurok 3 - Shadow of Oblivion (G)を再コメントアウト
+
+	・設定の変更
+		Baku Bomberman (J)	Changed SMCM to Protected Memory
+
+	・名前の変更
+		[E6419BC5-69011DE3-C:45]	N:"Ogre Battle 64 - Person of Lordly Caliber (U) (V1.0)"
+Ver.4.12:
+	・未登録ゲームの新規追加
+		[0ADAECA7-B17F9795-C:45]	Ogre Battle 64 - Person of Lordly Caliber (U) (V1.1)
+		[21260D94-06AE1DFE-C:45]	Tommy Thunder (U) (Unreleased Alpha)
+		[C006E3C0-A67B4BBB-C:50]	F-1 World Grand Prix (E)
+		[D25C1211-13EEBF67-C:44]	Turok 3 - Shadow of Oblivion (G)	(Commenting out in RDB 1.6.016)
+
+	*名前の変更:
+		[CC3CC8B3-0EC405A4-C:50]	N:"F-1 World Grand Prix (E) (beta)"	O:"F-1 World Grand Prix (E)"
+		[90F5D9B3-9D0EDCF0-C:45]	N:"Pokemon Stadium (U) (V1.0)"		O:"Pokemon Stadium (U)"
+
+	・誤字脱字等を修正
+
+Ver.4.11:
+	・Good NameをGoodN64 3.14と同等になるように調整
+
+	・unofficial RDB 1.6.017～1.6.020の変更を適用
+		Body Harvest (E) (M3)			Changed Culling=0,Cheat0=8104DCD2 0808 //Clipping fix
+		Body Harvest (U) 			Changed Culling=0,
+		Dark Rift (E/U)				Changed CF to 1,Use Large Buffer=Yes, Culling=1
+		Gauntlet Legends (E/J/U)		Changed CF to 1,
+		F-ZERO X (E/J/U)			Removed Clear Frame=2
+		Star Wars - Rogue Squadron (E) (V1.1)	Changed Internal Name to "rogue squadron"
+		Removed Master Quest (E) [h1C], [f1]
+		Removed Jet Force Gemini (U) [f1]
+		Removed Old "New entry" tag
+
+	・未登録ゲームの新規追加
+		[96BA4EFB-C9988E4E-C:0]		Derby Stallion 64 (J) (Beta)
+		[CD7559AC-B26CF5AE-C:45]	Banjo-Kazooie (U) (V1.1)
+		[19F55D46-73A27B34-C:45]	Mortal Kombat Trilogy (U) (V1.1)
+	 	[BFA526B4-0691E430-C:45]	Mischief Makers (U) (V1.1)
+	 	[2F493DD0-2E64DFD9-C:45]	Resident Evil 2 (U) (V1.0)
+	 	[C7F30CFA-ECB0FA36-C:45]	Star Wars - Rogue Squadron (U) (V1.1)
+		[E0B92B94-B9A7E025-C:45]	Turok 2 - Seeds of Evil (U) (V1.1)
+	 	[DD318CE2-B73798BA-C:45]	Waialae Country Club - True Golf Classics (U) (V1.1)
+	 	[6C80F13B-427EDEAA-C:45]	WWF No Mercy (U) (V1.1)
+
+
+	・誤字脱字等を修正
+
+Ver.4.10:
+	・Official RDB V1.6.016をベースに一から作り直し
+	・未登録ゲームの新規追加
+		[2F33EFCA-6CA95A9C-C:0]  Funnel Cube (PD)
+		[9A746EBF-2802EA99-C:0]  Toon Panic (J) (Beta)
+		[ABA51D09-C668BAD9-C:58] 40 Winks (E) (M3) (Beta)
+		[C6CE0AAA-D117F019-C:4A] J.League Tactics Soccer (J) (V1.1)
+		[575F340B-9F1398B2-C:4A] Jikkyou G1 Stable (J) (V1.1)
+		[6309FC17-1D4F5EF3-C:4A] Jikkyou J.League 1999 - Perfect Striker 2 (J) (V1.1)
+		[1C8CDF74-F761051F-C:4A] Jikkyou Powerful Pro Yakyuu 5 (J) (V1.1)
+		[AC173077-5A14C012-C:4A] Jikkyou Powerful Pro Yakyuu 5 (J) (V1.2)
+		[3C084040-081B060C-C:4A] Jikkyou Powerful Pro Yakyuu 6 (J) (V1.1)
+		[438E6026-3BA24E07-C:4A] Jikkyou Powerful Pro Yakyuu 6 (J) (V1.2)
+		[B00E3829-29F232D1-C:4A] Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (J) (V1.1)
+		[734F816B-C6A6EB67-C:4A] Mario Golf 64 (J) (V1.1)
+		[0AE2B37C-FBC174F0-C:4A] Pro Mahjong Kiwame 64 (J) (V1.1)
+		[65AEDEEF-3857C728-C:4A] Star Fox 64 (J) (V1.1)
+		[C52E0BC6-56BC6556-C:4A] WinBack (J) (V1.1)
+		[E0044E9E-CD659D0D-C:4A] Pokemon Snap (J) (V1.1)
+		[C5F1DE79-5D4BEB6E-C:4A] Nushi Tsuri 64 (J) (V1.1)
+
+Ver.4.04:
+	・未登録ゲームの新規追加
+		実況ワールドサッカー WORLD CUP FRANCE'98 (J) (V1.1)
+		実況ワールドサッカー WORLD CUP FRANCE'98 (J) (V1.2)
+
+	・オフィシャルでの更新をいくつか反映
+	・N64 Rom Info Viewer V1.9aを同梱
+
+	・Project64 Ver.1.6 動作情報ノートを同梱
+
+
+Ver.4.03b:
+	・未登録ゲームの新規追加
+		Banjo-Kazooie (U) (V1.1)
+		International Superstar Soccer 2000 (FI)	(情報提供 olivieryuyu)
+	・RDB Optimizer v0.03に更新
+	・N64 Rom Info Viewer V1.9を同梱
+
+Ver.4.03a:
+	・未登録ゲームの新規追加
+		Hydro Thunder (F))		(情報提供 olivieryuyu)
+		Tom Clancy's Rainbow Six (F)
+	のみ
+
+Ver.4.03:
+	・未登録ゲームの新規追加
+		牧場物語2 (V1.2)
+		実況Jリーグ 1999 パフェクトストライカー2 (J) (V1.1)
+	・動作修正
+		カスタムロボV2（セーブを16kbit Eepromに変更）
+		Parlor!PRO64 パチンコ実機シミュレーションゲーム（セーブを16kbit Eepromに変更）
+		ロボットポンコッツ64 七つの海のカラメル（セーブを16kbit Eepromに変更）
+		デュアルヒーローズ（Jabo's Direct3D v1.5.2を使用するように修正）
+		飛龍の拳ツイン（点滅の軽減）
+		実況パワフルプロ野球5（サクセス開始直後にとまっていたのを修正）
+		星のカービィ64（ステータスをIssues (core)に変更）
+		麻雀放浪記CLASSIC（Jabo's Direct3D v1.5.2を使用するように修正）
+		プロ麻雀 極64（点滅の軽減）
+		スーパーロボットスピリッツ（ステータスをNeeds video pluginに変更）
+
+	など
+
+Ver.4.02:
+	・未登録ゲームの新規追加
+		Hexen (F)	(情報提供 olivieryuyu)
+	・動作修正
+		ディディーコングレーシング(SMCMをCacheに変更)
+	など
+
+
+Ver.4.01:
+	・いくつかの修正
+
+Ver.4.00:
+	・Official RDB V1.6.0をベースに一から作り直し
+	・未登録ゲームの新規追加
+		マリオゴルフ64 (J) (V1.1)
+		Ｊリーグ タクティクスサッカー (J) (V1.1)
+		実況パワフルプロ野球５ (J) (V1.2)
+		実況パワフルプロ野球 Ｂａｓｉｃ版 ２００１ (J) (V1.1)
+	・動作修正
+		※Changes.txt参照
+
+	・英語版の再作成、日米での同時リリース
+
+
+Ver.3.31:
+	・一部ゲームの名前を変更
+	・未登録ゲームの新規追加
+		星のカービィ64 (J) (V1.2)
+		Legend of Zelda, The - Majora's Mask - Collector's Edition (U) (GC Version)
+		Legend of Zelda, The - Ocarina of Time - Collector's Edition (U) (GC Version)
+		を追加	
+	・動作修正
+		ダービースタリオン64を”Only intro/part OK”に再変更
+	・英語版の作成し忘れ
+
+Ver.3.30:
+	・Clements' Unofficial Update for SP1 v2.0dの変更を取り込み
+	・GoodN64 V2.02aの変更を適用
+	・一部ゲームの名前を変更
+	・未登録ゲームの新規追加
+		ゼルダの伝説 時のオカリナ (V1.1)
+		ゼルダの伝説 時のオカリナ (V1.2)
+	　	ゼルダの伝説 ムジュラの仮面 (V1.1)
+	　	星のカービィ64 (V1.1)
+	　	星のカービィ64 (V1.3)
+		を追加
+	・動作修正
+		時空戦士テュロック（ロード画面でフリーズすることがあったのを修正）
+	・WhatsNew.txtの作り直し
+
+	など
+
+
+Ver.3.23:
+	・未登録ゲームの新規追加
+		ゼルダの伝説 時のオカリナ ゼルダコレクション版
+		ゼルダの伝説 ムジュラの仮面 ゼルダコレクション版
+	・ダービースタリオン64を”Only intro/part OK”に変更
+
+Ver.3.22: 
+	・一部ゲームの名前を変更
+	・動作情報ノートのＱ＆Ａに追記
+
+Ver.3.21: 
+	・未登録ゲームの新規追加
+		ゼルダの伝説 時のオカリナ ＧＣ
+	　	ゼルダの伝説 時のオカリナ ＧＣ 裏
+	・動作修正
+		ゼルダの伝説 ムジュラの仮面（オープニングの引っ掛かり軽減）
+		ＨＥＩＷＡパチンコワールド６４（Jabo's Direct3D v1.4を使用するように修正）
+	・動作情報ノートの修正
+	・WhatsNew.txtの修正
+
+Ver.3.20: 
+	・ねこかぶにより、Project64 Ver.1.5 SP1同梱のRDB Official V1.5.1を
+	  ベースに作成。
+	・動作修正
+		スマッシュブラザーズ（キャラクター登場時の引っ掛かり軽減）
+		ポケモンスタジアム（セーブできるように修正（Flash->SRAM)）
+		ワンダープロジェクトJ2（途中で止まっていたのを修正）
+		バイオハザード（コメントの修正）
+	　	など
+	・英語版を作成しました。
+	　※これはGood Nameを英語のままにし、いくつかのゲームの名前を修正したものです。
+	　名前の変更点等は、WhatsNew.txt参照のこと。
+
+
+※これ以下、まさ氏作成
+Ver.3.09: バイオレンスキラーの動作修正(Ver.1.4のプラグインを使う場合を考慮した修正)
+　　　　　コメントの修正
+
+Ver.3.08: バイオハザード２の動作修正(協力:ねこかぶ氏)
+　　　　　がんばれゴエモン でろでろ道中オバケてんこ盛りの動作修正
+
+Ver.3.07: ボンバーマンヒーローの動作修正
+　　　　　コメントの修正
+
+Ver.3.06: コメントの修正
+
+Ver.3.05: 麻雀放浪記ＣＬＡＳＳＩＣの動作修正
+　　　　　コメントの修正
+
+Ver.3.04: Ver.1.5でVer.1.4のプラグインを使う場合を考慮した修正
+          コメントの修正
+
+Ver.3.03: 一部の設定が適用されていなかった問題を修正(F-ZERO X等)
+　　　　　GoodN64登録外の正常イメージをデータベースに追加(協力：ねこかぶ氏)
+          コメントの修正
+
+Ver.3.02: コメントの修正
+
+Ver.3.01: コメントの修正
+
+Ver.3.00: Project64 Ver.1.5に対応
+
+Ver.2.01：Project64 Ver.1.5 beta1に対応
+
+Ver.2.00：RDB Official BETA #104ベースに変更。その他大幅な修正
+
+Ver.1.03：新規タイトルを追加(GoodN64登録外含む)
+
+Ver.1.02：JPn64最新版を元に日本語タイトルを修正
+　　　　　コメントの修正
+
+Ver.1.01：ステータス情報を修正
+
+Ver.1.00：ファーストリリース
