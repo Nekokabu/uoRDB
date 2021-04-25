@@ -1,5 +1,5 @@
 // ============================================================================
-// Project64 Unofficial RDB v4.23 by Nekokabu & MASA
+// Project64 Unofficial RDB v4.24 by Nekokabu & MASA
 // Based On Project64 Official RDB v1.6.0.16 by Smiff/Project64 team
 // ============================================================================
 
@@ -20,8 +20,8 @@
 // Note that Project64 automatically prefixes "http://"
 
 Author=Nekokabu && Masa
-Version=4.23ja UnOfficial
-Date=2012/7/31
+Version=4.24jp UnOfficial
+Date=2021/4/25
 Homepage=FrontPage - N64 Emulator wiki.url
 
 
@@ -239,7 +239,7 @@ Emulate Clear=1
 Audio Signal=No
 
 [1FBAF161-2C1C54F1-C:41]
-Good Name=1080ƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) (M2)
+Good Name=1080ã‚¹ãƒãƒ¼ãƒœãƒ¼ãƒ‡ã‚£ãƒ³ã‚° (JU) (M2)
 Internal Name=1080 SNOWBOARDING
 RDRAM Size=4
 Counter Factor=2
@@ -265,8 +265,8 @@ Emulate Clear=1
 Audio Signal=No
 
 [B98BA456-5B2B76AF-C:4A]
-Good Name=64‚Å”­Œ©!‚½‚Ü‚²‚Á‚¿ ‚İ‚ñ‚È‚Å‚½‚Ü‚²‚Á‚¿ƒ[ƒ‹ƒh (J)
-Internal Name=ĞİÅÃŞÀÏºŞ¯ÁÜ°ÙÄŞ
+Good Name=64ã§ç™ºè¦‹!ãŸã¾ã”ã£ã¡ ã¿ã‚“ãªã§ãŸã¾ã”ã£ã¡ãƒ¯ãƒ¼ãƒ«ãƒ‰ (J)
+Internal Name=ï¾ï¾ï¾…ï¾ƒï¾ï¾€ï¾ï½ºï¾ï½¯ï¾ï¾œï½°ï¾™ï¾„ï¾
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -284,8 +284,8 @@ SP Hack=No
 Audio Signal=No
 
 [36F22FBF-318912F2-C:4A]
-Good Name=64‰ÔD “Vg‚Ì–ñ‘© (J)
-Internal Name=64ÊÅÌÀŞ ~Ãİ¼ÉÔ¸¿¸~
+Good Name=64èŠ±æœ­ å¤©ä½¿ã®ç´„æŸ (J)
+Internal Name=64ï¾Šï¾…ï¾Œï¾€ï¾ ~ï¾ƒï¾ï½¼ï¾‰ï¾”ï½¸ï½¿ï½¸~
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -298,7 +298,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [9C961069-F5EA488D-C:4A]
-Good Name=64‘å‘Š–o (J)
+Good Name=64å¤§ç›¸æ’² (J)
 Internal Name=64 OHZUMOU
 RDRAM Size=4
 Counter Factor=1
@@ -317,8 +317,8 @@ Core Note=
 Audio Signal=No
 
 [85C18B16-DF9622AF-C:4A]
-Good Name=64‘å‘Š–o2 (J)
-Internal Name=64 µµ½ŞÓ³ 2
+Good Name=64å¤§ç›¸æ’²2 (J)
+Internal Name=64 ï½µï½µï½½ï¾ï¾“ï½³ 2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -331,7 +331,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [7A6081FC-FF8F7A78-C:4A]
-Good Name=64ƒgƒ‰ƒ“ƒvƒRƒŒƒNƒVƒ‡ƒ“ ƒAƒŠƒX‚Ì‚í‚­‚í‚­ƒgƒ‰ƒ“ƒvƒ[ƒ‹ƒh (J)
+Good Name=64ãƒˆãƒ©ãƒ³ãƒ—ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ ã‚¢ãƒªã‚¹ã®ã‚ãã‚ããƒˆãƒ©ãƒ³ãƒ—ãƒ¯ãƒ¼ãƒ«ãƒ‰ (J)
 Internal Name=64 TRUMP COLLECTION
 RDRAM Size=4
 Counter Factor=2
@@ -491,7 +491,7 @@ Delay SI=No
 SP Hack=No
 
 [B00903C9-3916C146-C:4A]
-Good Name=ƒGƒAƒƒQƒCƒW ƒTƒ“ƒvƒ‹”Å (J) (V1.0) (Kiosk Demo)
+Good Name=ã‚¨ã‚¢ãƒ­ã‚²ã‚¤ã‚¸ ã‚µãƒ³ãƒ—ãƒ«ç‰ˆ (J) (V1.0) (Kiosk Demo)
 Internal Name=AEROGAUGE
 RDRAM Size=4
 Counter Factor=2
@@ -509,7 +509,7 @@ Core Note=
 Plugin Note=
 
 [80F41131-384645F6-C:4A]
-Good Name=ƒGƒAƒƒQƒCƒW (J) (V1.1)
+Good Name=ã‚¨ã‚¢ãƒ­ã‚²ã‚¤ã‚¸ (J) (V1.1)
 Internal Name=AEROGAUGE
 RDRAM Size=4
 Counter Factor=2
@@ -546,8 +546,8 @@ Plugin Note=
 Audio Signal=No
 
 [8CC182A6-C2D0CAB0-C:4A]
-Good Name=AI«Šû3 (J)
-Internal Name=AI¼®³·Ş3
+Good Name=AIå°†æ£‹3 (J)
+Internal Name=AIï½¼ï½®ï½³ï½·ï¾3
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -639,8 +639,8 @@ Delay SI=No
 SP Hack=No
 
 [6C45B60C-DCE50E30-C:4A]
-Good Name=ƒGƒA[ƒ{[ƒ_[64 (J)
-Internal Name=´±°ÎŞ°ÀŞ°64
+Good Name=ã‚¨ã‚¢ãƒ¼ãƒœãƒ¼ãƒ€ãƒ¼64 (J)
+Internal Name=ï½´ï½±ï½°ï¾ï¾ï½°ï¾€ï¾ï½°64
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -662,7 +662,7 @@ Culling=1
 Emulate Clear=0
 
 [B6951A94-63C849AF-C:4A]
-Good Name=ˆ«–‚éƒhƒ‰ƒLƒ…ƒ‰–Ù¦˜^ (J)
+Good Name=æ‚ªé­”åŸãƒ‰ãƒ©ã‚­ãƒ¥ãƒ©é»™ç¤ºéŒ² (J)
 Internal Name=DRACULA MOKUSHIROKU
 RDRAM Size=4
 Counter Factor=2
@@ -688,7 +688,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [A5533106-B9F25E5B-C:4A]
-Good Name=ˆ«–‚éƒhƒ‰ƒLƒ…ƒ‰–Ù¦˜^ŠO“` ƒŒƒWƒFƒ“ƒhƒIƒuƒR[ƒlƒ‹ (J)
+Good Name=æ‚ªé­”åŸãƒ‰ãƒ©ã‚­ãƒ¥ãƒ©é»™ç¤ºéŒ²å¤–ä¼ ãƒ¬ã‚¸ã‚§ãƒ³ãƒ‰ã‚ªãƒ–ã‚³ãƒ¼ãƒãƒ« (J)
 Internal Name=DRACULA MOKUSHIROKU2
 RDRAM Size=8
 Counter Factor=2
@@ -1028,7 +1028,7 @@ Plugin Note=
 //B
 //
 [E340A49C-74318D41-C:4A]
-Good Name=”šƒ{ƒ“ƒo[ƒ}ƒ“ (J)
+Good Name=çˆ†ãƒœãƒ³ãƒãƒ¼ãƒãƒ³ (J)
 Internal Name=BAKU-BOMBERMAN
 RDRAM Size=4
 Counter Factor=1
@@ -1054,7 +1054,7 @@ Core Note=(see GameFAQ)
 Plugin Note=[video] errors:various (see GameFAQ)
 
 [E73C7C4F-AF93B838-C:4A]
-Good Name=”šƒ{ƒ“ƒo[ƒ}ƒ“2 (J)
+Good Name=çˆ†ãƒœãƒ³ãƒãƒ¼ãƒãƒ³2 (J)
 Internal Name=BAKUBOMB2
 RDRAM Size=4
 Counter Factor=2
@@ -1073,7 +1073,7 @@ Core Note=
 Audio Signal=No
 
 [DF98B95D-58840978-C:4A]
-Good Name=”š—ô–³“Gƒoƒ“ƒKƒCƒI[ (J)
+Good Name=çˆ†è£‚ç„¡æ•µãƒãƒ³ã‚¬ã‚¤ã‚ªãƒ¼ (J)
 Internal Name=BANGAIOH
 RDRAM Size=4
 Counter Factor=2
@@ -1099,8 +1099,8 @@ Emulate Clear=0
 Audio Signal=No
 
 [88CF980A-8ED52EB5-C:4A]
-Good Name=”šÎl¶64 ‚ß‚´‚¹!ƒŠƒ][ƒg‰¤ (J)
-Internal Name=ÊŞ¸¼®³¼Şİ¾²64
+Good Name=çˆ†ç¬‘äººç”Ÿ64 ã‚ã–ã›!ãƒªã‚¾ãƒ¼ãƒˆç‹ (J)
+Internal Name=ï¾Šï¾ï½¸ï½¼ï½®ï½³ï½¼ï¾ï¾ï½¾ï½²64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -1113,7 +1113,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [5168D520-CA5FCD0D-C:4A]
-Good Name=ƒoƒ“ƒWƒ‡[‚ÆƒJƒY[ƒC‚Ì‘å–`Œ¯ (J)
+Good Name=ãƒãƒ³ã‚¸ãƒ§ãƒ¼ã¨ã‚«ã‚ºãƒ¼ã‚¤ã®å¤§å†’é™º (J)
 Internal Name=Banjo-Kazooie
 RDRAM Size=4
 CPU Type=Recompiler
@@ -1138,7 +1138,7 @@ Culling=1
 Emulate Clear=0
 
 [514B6900-B4B19881-C:4A]
-Good Name=ƒoƒ“ƒWƒ‡[‚ÆƒJƒY[ƒC‚Ì‘å–`Œ¯2 (J)
+Good Name=ãƒãƒ³ã‚¸ãƒ§ãƒ¼ã¨ã‚«ã‚ºãƒ¼ã‚¤ã®å¤§å†’é™º2 (J)
 Internal Name=BANJO KAZOOIE 2
 RDRAM Size=4
 Counter Factor=2
@@ -1300,7 +1300,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [D76333AC-0CB6219D-C:4A]
-Good Name=ƒoƒXƒ‰ƒbƒVƒ… ƒGƒRƒMƒA ƒpƒ[ƒ[ƒ€ƒ`ƒƒƒ“ƒsƒIƒ“ƒVƒbƒv (J)
+Good Name=ãƒã‚¹ãƒ©ãƒƒã‚·ãƒ¥ ã‚¨ã‚³ã‚®ã‚¢ ãƒ‘ãƒ¯ãƒ¼ãƒ¯ãƒ¼ãƒ ãƒãƒ£ãƒ³ãƒ”ã‚ªãƒ³ã‚·ãƒƒãƒ— (J)
 Internal Name=Bass Rush
 RDRAM Size=4
 Counter Factor=1
@@ -1458,7 +1458,7 @@ Core Note=
 Audio Signal=No
 
 [9C7318D2-24AE0DC1-C:4A]
-Good Name=ƒr[ƒgƒ‹ƒAƒhƒxƒ“ƒ`ƒƒ[ƒŒ[ƒVƒ“ƒO (J)
+Good Name=ãƒ“ãƒ¼ãƒˆãƒ«ã‚¢ãƒ‰ãƒ™ãƒ³ãƒãƒ£ãƒ¼ãƒ¬ãƒ¼ã‚·ãƒ³ã‚° (J)
 Internal Name=BEETLE ADVENTURE JP
 RDRAM Size=4
 Counter Factor=2
@@ -1572,7 +1572,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [7EAE2488-9D40A35A-C:4A]
-Good Name=ƒoƒCƒIƒnƒU[ƒh2 (J)
+Good Name=ãƒã‚¤ã‚ªãƒã‚¶ãƒ¼ãƒ‰2 (J)
 Internal Name=BioHazard II
 RDRAM Size=8
 Counter Factor=1
@@ -1649,7 +1649,7 @@ Core Note=
 Audio Signal=No
 
 [65234451-EBD3346F-C:4A]
-Good Name=ƒuƒ‰ƒXƒgƒh[ƒU[ (J)
+Good Name=ãƒ–ãƒ©ã‚¹ãƒˆãƒ‰ãƒ¼ã‚¶ãƒ¼ (J)
 Internal Name=Blastdozer
 RDRAM Size=4
 Counter Factor=2
@@ -1754,8 +1754,8 @@ Emulate Clear=0
 Audio Signal=No
 
 [B3D451C6-E1CB58E2-C:4A]
-Good Name=–qê•¨Œê2 (J) (V1.0)
-Internal Name=ÎŞ¸¼Ş®³ÓÉ¶ŞÀØ2
+Good Name=ç‰§å ´ç‰©èª2 (J) (V1.0)
+Internal Name=ï¾ï¾ï½¸ï½¼ï¾ï½®ï½³ï¾“ï¾‰ï½¶ï¾ï¾€ï¾˜2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -1768,7 +1768,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [DF6FF0F4-29D14238-C:4A]
-Good Name=ƒ{ƒ“ƒo[ƒ}ƒ“64 (J)
+Good Name=ãƒœãƒ³ãƒãƒ¼ãƒãƒ³64 (J)
 Internal Name=BOMBERMAN64
 RDRAM Size=4
 Counter Factor=2
@@ -1881,8 +1881,8 @@ Audio Signal=No
 SP Hack=No
 
 [67FF12CC-76BF0212-C:4A]
-Good Name=ƒ{ƒ“ƒo[ƒ}ƒ“ƒq[ƒ[ ƒ~ƒŠƒAƒ“‰¤—‚ğ‹~‚¦! (J)
-Internal Name=ÎŞİÊŞ°Ïİ Ë°Û°
+Good Name=ãƒœãƒ³ãƒãƒ¼ãƒãƒ³ãƒ’ãƒ¼ãƒ­ãƒ¼ ãƒŸãƒªã‚¢ãƒ³ç‹å¥³ã‚’æ•‘ãˆ! (J)
+Internal Name=ï¾ï¾ï¾ï¾Šï¾ï½°ï¾ï¾ ï¾‹ï½°ï¾›ï½°
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -1988,7 +1988,7 @@ SP Hack=No
 Core Note=
 
 [D7C762B6-F83D9642-C:4A]
-Good Name=ƒoƒbƒNƒoƒ“ƒvƒ‹ (J)
+Good Name=ãƒãƒƒã‚¯ãƒãƒ³ãƒ—ãƒ« (J)
 Internal Name=BUCK BUMBLE
 RDRAM Size=4
 Counter Factor=2
@@ -2345,7 +2345,7 @@ Audio Signal=No
 Cheat0=800EA263 0000 //[Mempak Fix (E)]
 
 [A4F2F521-F0EB168E-C:4A]
-Good Name=ƒJƒƒŒƒIƒ“ƒcƒCƒXƒg (J)
+Good Name=ã‚«ãƒ¡ãƒ¬ã‚ªãƒ³ãƒ„ã‚¤ã‚¹ãƒˆ (J)
 Internal Name=Chameleon Twist
 RDRAM Size=4
 Counter Factor=2
@@ -2404,7 +2404,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [0549765A-93B9D042-C:4A]
-Good Name=ƒJƒƒŒƒIƒ“ƒcƒCƒXƒg2 (J)
+Good Name=ã‚«ãƒ¡ãƒ¬ã‚ªãƒ³ãƒ„ã‚¤ã‚¹ãƒˆ2 (J)
 Internal Name=Chameleon Twist2
 RDRAM Size=4
 Counter Factor=2
@@ -2512,7 +2512,7 @@ Core Note=
 Plugin Note=[video] (see GameFAQ)
 
 [2BCCF9C4-403D9F6F-C:4A]
-Good Name=ƒ`ƒ‡ƒQ64 (J)
+Good Name=ãƒãƒ§ãƒ­Q64 (J)
 Internal Name=CHOROQ64
 RDRAM Size=4
 Counter Factor=2
@@ -2530,8 +2530,8 @@ SP Hack=No
 Core Note=
 
 [26CD0F54-53EBEFE0-C:4A]
-Good Name=ƒ`ƒ‡ƒQ64 2 ƒnƒ`ƒƒƒƒ`ƒƒƒOƒ‰ƒ“ƒvƒŠƒŒ[ƒX (J)
-Internal Name=Á®ÛQ64 2
+Good Name=ãƒãƒ§ãƒ­Q64 2 ãƒãƒãƒ£ãƒ¡ãƒãƒ£ã‚°ãƒ©ãƒ³ãƒ—ãƒªãƒ¬ãƒ¼ã‚¹ (J)
+Internal Name=ï¾ï½®ï¾›Q64 2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -2549,7 +2549,7 @@ Core Note=
 Plugin Note=[video] framebuffer:menus,tv monitor
 
 [8ACE6683-3FBA426E-C:4A]
-Good Name=’´‹óŠÔƒiƒCƒ^[ ƒvƒ–ì‹…ƒLƒ“ƒO (J)
+Good Name=è¶…ç©ºé–“ãƒŠã‚¤ã‚¿ãƒ¼ ãƒ—ãƒ­é‡çƒã‚­ãƒ³ã‚° (J)
 Internal Name=PROYAKYUKING
 RDRAM Size=4
 Counter Factor=2
@@ -2568,8 +2568,8 @@ Core Note=
 Plugin Note=[video] errors:menus
 
 [3A180FF4-5C8E8AF7-C:4A]
-Good Name=’´‹óŠÔƒiƒCƒ^[ ƒvƒ–ì‹…ƒLƒ“ƒO2 (J)
-Internal Name=ÌßÛÔ·­³·İ¸Ş2
+Good Name=è¶…ç©ºé–“ãƒŠã‚¤ã‚¿ãƒ¼ ãƒ—ãƒ­é‡çƒã‚­ãƒ³ã‚°2 (J)
+Internal Name=ï¾Œï¾Ÿï¾›ï¾”ï½·ï½­ï½³ï½·ï¾ï½¸ï¾2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -2587,7 +2587,7 @@ Core Note=
 Plugin Note=[video] errors:menus
 
 [A7941528-61F1199D-C:4A]
-Good Name=’´ƒXƒmƒ{ƒLƒbƒY (J)
+Good Name=è¶…ã‚¹ãƒãƒœã‚­ãƒƒã‚º (J)
 Internal Name=Snobow Kids 2
 RDRAM Size=4
 Counter Factor=2
@@ -2602,7 +2602,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [F8009DB0-6B291823-C:4A]
-Good Name=CITY TOUR GRANDPRIX ‘S“ú–{GT‘IèŒ  (J)
+Good Name=CITY TOUR GRANDPRIX å…¨æ—¥æœ¬GTé¸æ‰‹æ¨© (J)
 Internal Name=CITY TOUR GP
 RDRAM Size=8
 Counter Factor=1
@@ -2953,7 +2953,7 @@ Core Note=
 Plugin Note=
 
 [83CB0B87-7E325457-C:4A]
-Good Name=ƒJƒXƒ^ƒ€ƒƒ{ (J)
+Good Name=ã‚«ã‚¹ã‚¿ãƒ ãƒ­ãƒœ (J)
 Internal Name=custom robo
 RDRAM Size=4
 Counter Factor=2
@@ -2972,7 +2972,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [079501B9-AB0232AB-C:4A]
-Good Name=ƒJƒXƒ^ƒ€ƒƒ{V2 (J)
+Good Name=ã‚«ã‚¹ã‚¿ãƒ ãƒ­ãƒœV2 (J)
 Internal Name=CUSTOMROBOV2
 RDRAM Size=4
 Counter Factor=2
@@ -3032,7 +3032,7 @@ Audio Signal=No
 //D
 //
 [7188F445-84410A68-C:4A]
-Good Name=ƒ_ƒ“ƒXƒ_ƒ“ƒXƒŒƒ{ƒŠƒ…[ƒVƒ‡ƒ“ ƒfƒBƒYƒj[ƒ_ƒ“ƒVƒ“ƒOƒ~ƒ…[ƒWƒAƒ€ (J)
+Good Name=ãƒ€ãƒ³ã‚¹ãƒ€ãƒ³ã‚¹ãƒ¬ãƒœãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ ãƒ‡ã‚£ã‚ºãƒ‹ãƒ¼ãƒ€ãƒ³ã‚·ãƒ³ã‚°ãƒŸãƒ¥ãƒ¼ã‚¸ã‚¢ãƒ  (J)
 Internal Name=DDR DISNEY D MUSEUM
 RDRAM Size=4
 Counter Factor=2
@@ -3127,8 +3127,8 @@ SP Hack=No
 Core Note=
 
 [17C54A61-4A83F2E7-C:4A]
-Good Name=“dÔ‚ÅGO!64 (J)
-Internal Name=ÃŞİ¼¬ÃŞGO!64
+Good Name=é›»è»Šã§GO!64 (J)
+Internal Name=ï¾ƒï¾ï¾ï½¼ï½¬ï¾ƒï¾GO!64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -3147,7 +3147,7 @@ Audio Signal=No
 Cheat0=81046576 0000 // freeze fix by Jelta
 
 [A5F667E1-DA1FBD1F-C:4A]
-Good Name=ƒ_[ƒr[ƒXƒ^ƒŠƒIƒ“64 (J)
+Good Name=ãƒ€ãƒ¼ãƒ“ãƒ¼ã‚¹ã‚¿ãƒªã‚ªãƒ³64 (J)
 Internal Name=DERBYSTALLION 64
 RDRAM Size=4
 Counter Factor=2
@@ -3231,7 +3231,7 @@ SP Hack=No
 Core Note=high system requirement
 
 [8979169C-F189F6A0-C:4A]
-Good Name=ƒfƒUƒGƒ‚ƒ“3D (J)
+Good Name=ãƒ‡ã‚¶ã‚¨ãƒ¢ãƒ³3D (J)
 Internal Name=DEZAEMON3D
 RDRAM Size=4
 Counter Factor=2
@@ -3450,7 +3450,7 @@ SP Hack=No
 Audio Signal=Yes
 
 [BD8E206D-98C35E1C-C:4A]
-Good Name=‚Ç‚¤‚Ô‚Â‚ÌX (J)
+Good Name=ã©ã†ã¶ã¤ã®æ£® (J)
 Internal Name=DOUBUTSUNOMORI
 RDRAM Size=4
 Counter Factor=2
@@ -3535,7 +3535,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [053C89A7-A5064302-C:4A]
-Good Name=ƒhƒ“ƒL[ƒRƒ“ƒO64 (J)
+Good Name=ãƒ‰ãƒ³ã‚­ãƒ¼ã‚³ãƒ³ã‚°64 (J)
 Internal Name=DONKEY KONG 64
 RDRAM Size=8
 Counter Factor=1
@@ -3597,7 +3597,7 @@ Core Note=
 Clear Frame=0
 
 [7AA65B36-FDCEE5AD-C:4A]
-Good Name=ƒhƒD[ƒ€64 (J)
+Good Name=ãƒ‰ã‚¥ãƒ¼ãƒ 64 (J)
 Internal Name=DOOM64
 RDRAM Size=4
 Counter Factor=2
@@ -3661,8 +3661,8 @@ Culling=1
 Emulate Clear=0
 
 [BFF7B1C2-AEBF148E-C:4A]
-Good Name=ƒhƒ‰‚¦‚à‚ñ ‚Ì‚Ñ‘¾‚Æ3‚Â‚Ì¸—ìÎ (J)
-Internal Name=ÄŞ×´Óİ Ğ¯ÂÉ¾²Ú²¾·
+Good Name=ãƒ‰ãƒ©ãˆã‚‚ã‚“ ã®ã³å¤ªã¨3ã¤ã®ç²¾éœŠçŸ³ (J)
+Internal Name=ï¾„ï¾ï¾—ï½´ï¾“ï¾ ï¾ï½¯ï¾‚ï¾‰ï½¾ï½²ï¾šï½²ï½¾ï½·
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -3680,8 +3680,8 @@ Core Note=
 Plugin Note=[video] missing:text,character colour
 
 [B6306E99-B63ED2B2-C:4A]
-Good Name=ƒhƒ‰‚¦‚à‚ñ2 ‚Ì‚Ñ‘¾‚ÆŒõ‚Ì_“a (J)
-Internal Name=ÄŞ×´Óİ2 Ë¶ØÉ¼İÃŞİ
+Good Name=ãƒ‰ãƒ©ãˆã‚‚ã‚“2 ã®ã³å¤ªã¨å…‰ã®ç¥æ®¿ (J)
+Internal Name=ï¾„ï¾ï¾—ï½´ï¾“ï¾2 ï¾‹ï½¶ï¾˜ï¾‰ï½¼ï¾ï¾ƒï¾ï¾
 RDRAM Size=4
 Counter Factor=2
 Save Type=16kbit Eeprom
@@ -3704,8 +3704,8 @@ Emulate Clear=0
 Audio Signal=No
 
 [A8275140-B9B056E8-C:4A]
-Good Name=ƒhƒ‰‚¦‚à‚ñ3 ‚Ì‚Ñ‘¾‚Ì’¬SOS! (J)
-Internal Name=ÄŞ×´Óİ3 ÉËŞÀÉÏÁSOS!
+Good Name=ãƒ‰ãƒ©ãˆã‚‚ã‚“3 ã®ã³å¤ªã®ç”ºSOS! (J)
+Internal Name=ï¾„ï¾ï¾—ï½´ï¾“ï¾3 ï¾‰ï¾‹ï¾ï¾€ï¾‰ï¾ï¾SOS!
 RDRAM Size=4
 Counter Factor=2
 Save Type=16kbit Eeprom
@@ -3768,7 +3768,7 @@ Audio Signal=No
 Clear Frame=0
 
 [056EAB63-C215FCD5-C:4A]
-Good Name=ƒfƒ…ƒAƒ‹ƒq[ƒ[ƒY (J)
+Good Name=ãƒ‡ãƒ¥ã‚¢ãƒ«ãƒ’ãƒ¼ãƒ­ãƒ¼ã‚º (J)
 Internal Name=Dual heroes JAPAN
 RDRAM Size=4
 Counter Factor=2
@@ -4032,8 +4032,8 @@ Use Large Buffer=No
 Status=Compatible
 
 [0DED0568-1502515E-C:4A]
-Good Name=‰hŒõ‚ÌƒZƒ“ƒgƒAƒ“ƒhƒŠƒ…[ƒX (J)
-Internal Name=´²º³É¾İÄ±İÄŞØ­°½
+Good Name=æ „å…‰ã®ã‚»ãƒ³ãƒˆã‚¢ãƒ³ãƒ‰ãƒªãƒ¥ãƒ¼ã‚¹ (J)
+Internal Name=ï½´ï½²ï½ºï½³ï¾‰ï½¾ï¾ï¾„ï½±ï¾ï¾„ï¾ï¾˜ï½­ï½°ï½½
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -4086,7 +4086,7 @@ Delay SI=No
 SP Hack=No
 
 [E13AE2DC-4FB65CE8-C:4A]
-Good Name=ƒGƒ‹ƒeƒCƒ‹ƒ‚ƒ“ƒXƒ^[ƒY (J)
+Good Name=ã‚¨ãƒ«ãƒ†ã‚¤ãƒ«ãƒ¢ãƒ³ã‚¹ã‚¿ãƒ¼ã‚º (J)
 Internal Name=Eltail
 RDRAM Size=4
 Counter Factor=2
@@ -4144,7 +4144,7 @@ SP Hack=No
 Audio Signal=No
 
 [861C3519-F6091CE5-C:4A]
-Good Name=ƒGƒLƒTƒCƒgƒoƒCƒN64 (J)
+Good Name=ã‚¨ã‚­ã‚µã‚¤ãƒˆãƒã‚¤ã‚¯64 (J)
 Internal Name=EXCITEBIKE64
 RDRAM Size=8
 Counter Factor=2
@@ -4202,7 +4202,7 @@ Core Note=
 Plugin Note=[video] errors:HUD (minor)
 
 [EE802DC4-690BD57D-C:4A]
-Good Name=ƒGƒNƒXƒgƒŠ[ƒ€G (J)
+Good Name=ã‚¨ã‚¯ã‚¹ãƒˆãƒªãƒ¼ãƒ G (J)
 Internal Name=EXTREME-G
 RDRAM Size=4
 Counter Factor=2
@@ -4262,8 +4262,8 @@ Clear Frame=0
 Culling=1
 
 [399B9B81-D533AD11-C:4A]
-Good Name=ƒGƒNƒXƒgƒŠ[ƒ€G2 (J)
-Internal Name=´¸½ÄØ°ÑG2
+Good Name=ã‚¨ã‚¯ã‚¹ãƒˆãƒªãƒ¼ãƒ G2 (J)
+Internal Name=ï½´ï½¸ï½½ï¾„ï¾˜ï½°ï¾‘G2
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -4400,7 +4400,7 @@ SP Hack=No
 Audio Signal=No
 
 [64BF47C4-F4BD22BA-C:4A]
-Good Name=F-1 ƒ[ƒ‹ƒhƒOƒ‰ƒ“ƒvƒŠ (J)
+Good Name=F-1 ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚°ãƒ©ãƒ³ãƒ—ãƒª (J)
 Internal Name=F1 WORLD GRAND PRIX
 RDRAM Size=4
 Counter Factor=2
@@ -4457,8 +4457,8 @@ SP Hack=No
 Audio Signal=No
 
 [6DFF4C37-B1B763FD-C:4A]
-Good Name=ƒtƒ@ƒ~ƒXƒ^64 (J)
-Internal Name=Ì§Ğ½À 64
+Good Name=ãƒ•ã‚¡ãƒŸã‚¹ã‚¿64 (J)
+Internal Name=ï¾Œï½§ï¾ï½½ï¾€ 64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -4522,7 +4522,7 @@ Core Note=
 Audio Signal=No
 
 [F5733C67-17A3973A-C:4A]
-Good Name=FIFA Road to World Cup 98 ƒ[ƒ‹ƒhƒJƒbƒv‚Ö‚Ì“¹ (J)
+Good Name=FIFA Road to World Cup 98 ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚«ãƒƒãƒ—ã¸ã®é“ (J)
 Internal Name=RoadToWorldCup98
 RDRAM Size=4
 Counter Factor=2
@@ -4725,7 +4725,7 @@ Core Note=
 Plugin Note=[video] errors:menus
 
 [49E46C2D-7B1A110C-C:4A]
-Good Name=ƒtƒ@ƒCƒeƒBƒ“ƒOƒJƒbƒv (J)
+Good Name=ãƒ•ã‚¡ã‚¤ãƒ†ã‚£ãƒ³ã‚°ã‚«ãƒƒãƒ— (J)
 Internal Name=Fighting Cup
 RDRAM Size=4
 Counter Factor=2
@@ -4901,8 +4901,8 @@ Culling=1
 Emulate Clear=0
 
 [F774EAEE-F0D8B13E-C:4A]
-Good Name=•sv‹c‚Ìƒ_ƒ“ƒWƒ‡ƒ“ •——ˆ‚ÌƒVƒŒƒ“2 ‹SP—ˆ!ƒVƒŒƒ“é! (J)
-Internal Name=F3 Ì³×²É¼Úİ2
+Good Name=ä¸æ€è­°ã®ãƒ€ãƒ³ã‚¸ãƒ§ãƒ³ é¢¨æ¥ã®ã‚·ãƒ¬ãƒ³2 é¬¼è¥²æ¥!ã‚·ãƒ¬ãƒ³åŸ! (J)
+Internal Name=F3 ï¾Œï½³ï¾—ï½²ï¾‰ï½¼ï¾šï¾2
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -5017,8 +5017,8 @@ Use Large Buffer=No
 Status=Compatible
 
 [832C168B-56A2CDAE-C:4A]
-Good Name=‚ª‚ñ‚Î‚êƒSƒGƒ‚ƒ“ ƒlƒI“R–‹•{‚Ì‚¨‚Ç‚è (J)
-Internal Name=GANBAKE GOEMON
+Good Name=ãŒã‚“ã°ã‚Œã‚´ã‚¨ãƒ¢ãƒ³ ãƒã‚ªæ¡ƒå±±å¹•åºœã®ãŠã©ã‚Š (J) (V1.0)
+Internal Name=GANBARE GOEMON
 RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
@@ -5043,7 +5043,7 @@ Resolution Width=-1
 Resolution Height=240
 
 [457B9CD9-09C55352-C:4A]
-Good Name=‚ª‚ñ‚Î‚êƒSƒGƒ‚ƒ“ ‚Å‚ë‚Å‚ë“¹’†ƒIƒoƒP‚Ä‚ñ‚±·‚è (J)
+Good Name=ãŒã‚“ã°ã‚Œã‚´ã‚¨ãƒ¢ãƒ³ ã§ã‚ã§ã‚é“ä¸­ã‚ªãƒã‚±ã¦ã‚“ã“ç››ã‚Š (J)
 Internal Name=GOEMON2 DERODERO
 RDRAM Size=4
 Counter Factor=2
@@ -5064,7 +5064,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [21FFFD0A-FA0D1D98-C:4A]
-Good Name=‚ª‚ñ‚Î‚ê!ƒjƒbƒ|ƒ“! ƒIƒŠƒ“ƒsƒbƒN2000 (J)
+Good Name=ãŒã‚“ã°ã‚Œ!ãƒ‹ãƒƒãƒãƒ³! ã‚ªãƒªãƒ³ãƒ”ãƒƒã‚¯2000 (J)
 Internal Name=OLYMPIC 2000
 RDRAM Size=4
 Counter Factor=2
@@ -5104,7 +5104,7 @@ Core Note=high system requirement
 Audio Signal=No
 
 [70B0260E-6716D04C-C:4A]
-Good Name=ƒKƒ“ƒgƒŒƒbƒgƒŒƒWƒFƒ“ƒh (J)
+Good Name=ã‚¬ãƒ³ãƒˆãƒ¬ãƒƒãƒˆãƒ¬ã‚¸ã‚§ãƒ³ãƒ‰ (J)
 Internal Name=GAUNTLET LEGENDS
 RDRAM Size=8
 Counter Factor=1
@@ -5149,7 +5149,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [489C84E6-4C6E49F9-C:4A]
-Good Name=ƒQƒbƒ^[ƒ‰ƒu!! ‚¿‚å[—öˆ¤ƒp[ƒeƒB[ƒQ[ƒ€ (J)
+Good Name=ã‚²ãƒƒã‚¿ãƒ¼ãƒ©ãƒ–!! ã¡ã‚‡ãƒ¼æ‹æ„›ãƒ‘ãƒ¼ãƒ†ã‚£ãƒ¼ã‚²ãƒ¼ãƒ  (J)
 Internal Name=Getter Love!!
 RDRAM Size=4
 Counter Factor=2
@@ -5309,8 +5309,8 @@ Core Note=
 Plugin Note=[video] AV;use v1.5.2 plugin
 
 [B2C6D27F-2DA48CFD-C:4A]
-Good Name=ƒSƒGƒ‚ƒ“ ‚à‚Ì‚Ì‚¯‘o˜Z (J)
-Internal Name=ºŞ´ÓİÓÉÉ¹½ºŞÛ¸
+Good Name=ã‚´ã‚¨ãƒ¢ãƒ³ ã‚‚ã®ã®ã‘åŒå…­ (J)
+Internal Name=ï½ºï¾ï½´ï¾“ï¾ï¾“ï¾‰ï¾‰ï½¹ï½½ï½ºï¾ï¾›ï½¸
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -5382,7 +5382,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [A24F4CF1-A82327BA-C:4A]
-Good Name=ƒS[ƒ‹ƒfƒ“ƒAƒC007 (J)
+Good Name=ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ã‚¢ã‚¤007 (J)
 Internal Name=GOLDENEYE
 RDRAM Size=4
 Counter Factor=1
@@ -5473,8 +5473,8 @@ Resolution Height=-1
 //H
 //
 [95A80114-E0B72A7F-C:4A]
-Good Name=ƒnƒ€ƒXƒ^[•¨Œê64 (J)
-Internal Name=ÊÑ½À°ÓÉ¶ŞÀØ64
+Good Name=ãƒãƒ ã‚¹ã‚¿ãƒ¼ç‰©èª64 (J)
+Internal Name=ï¾Šï¾‘ï½½ï¾€ï½°ï¾“ï¾‰ï½¶ï¾ï¾€ï¾˜64
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -5493,7 +5493,7 @@ Resolution Height=-1
 Audio Signal=No
 
 [09AE57B1-182A5637-C:4A]
-Good Name=ê¡‚©‚È‚éƒI[ƒKƒXƒ^ MASTERS'98 (J)
+Good Name=é™ã‹ãªã‚‹ã‚ªãƒ¼ã‚¬ã‚¹ã‚¿ MASTERS'98 (J)
 Internal Name=MASTERS'98
 RDRAM Size=4
 Counter Factor=2
@@ -5531,8 +5531,8 @@ Plugin Note=
 Audio Signal=No
 
 [3E70E866-4438BAE8-C:4A]
-Good Name=HEIWAƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh64 (J)
-Internal Name=HEIWA ÊßÁİº Ü°ÙÄŞ64
+Good Name=HEIWAãƒ‘ãƒãƒ³ã‚³ãƒ¯ãƒ¼ãƒ«ãƒ‰64 (J)
+Internal Name=HEIWA ï¾Šï¾Ÿï¾ï¾ï½º ï¾œï½°ï¾™ï¾„ï¾64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -5651,7 +5651,7 @@ Core Note=
 Audio Signal=No
 
 [66751A57-54A29D6E-C:4A]
-Good Name=ƒwƒNƒZƒ“ (J)
+Good Name=ãƒ˜ã‚¯ã‚»ãƒ³ (J)
 Internal Name=HEXEN
 RDRAM Size=4
 Counter Factor=1
@@ -5768,8 +5768,8 @@ Core Note=
 Audio Signal=No
 
 [35FF8F1A-6E79E3BE-C:4A]
-Good Name=”ò—´‚ÌŒƒcƒCƒ“ (J)
-Internal Name=ËØ­³É¹İ Â²İ
+Good Name=é£›é¾ã®æ‹³ãƒ„ã‚¤ãƒ³ (J)
+Internal Name=ï¾‹ï¾˜ï½­ï½³ï¾‰ï½¹ï¾ ï¾‚ï½²ï¾
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -5790,7 +5790,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [C1D702BD-6D416547-C:4A]
-Good Name=¯‚ÌƒJ[ƒrƒB64 (J) (V1.0)
+Good Name=æ˜Ÿã®ã‚«ãƒ¼ãƒ“ã‚£64 (J) (V1.0)
 Internal Name=Kirby64
 RDRAM Size=4
 Counter Factor=2
@@ -5810,7 +5810,7 @@ Core Note=
 Audio Signal=No
 
 [CA1BB86F-41CCA5C5-C:4A]
-Good Name=¯‚ÌƒJ[ƒrƒB64 (J) (V1.1)
+Good Name=æ˜Ÿã®ã‚«ãƒ¼ãƒ“ã‚£64 (J) (V1.1)
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -5834,7 +5834,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [0C581C7A-3D6E20E4-C:4A]
-Good Name=¯‚ÌƒJ[ƒrƒB64 (J) (V1.2)
+Good Name=æ˜Ÿã®ã‚«ãƒ¼ãƒ“ã‚£64 (J) (V1.2)
 Internal Name=Kirby64
 RDRAM Size=4
 Counter Factor=2
@@ -5859,7 +5859,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [BCB1F89F-060752A2-C:4A]
-Good Name=¯‚ÌƒJ[ƒrƒB64 (J) (V1.3)
+Good Name=æ˜Ÿã®ã‚«ãƒ¼ãƒ“ã‚£64 (J) (V1.3)
 Internal Name=Kirby64
 RDRAM Size=4
 Counter Factor=2
@@ -5946,7 +5946,7 @@ SP Hack=No
 Audio Signal=No
 
 [5535972E-BD8E3295-C:4A]
-Good Name=ƒqƒ…[ƒ}ƒ“ƒOƒ‰ƒ“ƒvƒŠ ƒU¥ƒjƒ…[ƒWƒFƒlƒŒ[ƒVƒ‡ƒ“ (J)
+Good Name=ãƒ’ãƒ¥ãƒ¼ãƒãƒ³ã‚°ãƒ©ãƒ³ãƒ—ãƒª ã‚¶ï½¥ãƒ‹ãƒ¥ãƒ¼ã‚¸ã‚§ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ (J)
 Internal Name=HUMAN GRAND PRIX
 RDRAM Size=4
 Counter Factor=2
@@ -5988,7 +5988,7 @@ SP Hack=No
 Core Note=
 
 [0DE2CE36-D41D29E6-C:4A]
-Good Name=ƒnƒCƒuƒŠƒbƒhƒwƒuƒ“ (J)
+Good Name=ãƒã‚¤ãƒ–ãƒªãƒƒãƒ‰ãƒ˜ãƒ–ãƒ³ (J)
 Internal Name=HYBRID HEAVEN JP
 RDRAM Size=8
 Counter Factor=2
@@ -6081,7 +6081,7 @@ Core Note=
 Audio Signal=Yes
 
 [2FC5C34C-7A05CC9D-C:4A]
-Good Name=ƒnƒCƒp[ƒIƒŠƒ“ƒsƒbƒN ƒCƒ“ ƒiƒKƒm64 (J)
+Good Name=ãƒã‚¤ãƒ‘ãƒ¼ã‚ªãƒªãƒ³ãƒ”ãƒƒã‚¯ ã‚¤ãƒ³ ãƒŠã‚¬ãƒ64 (J)
 Internal Name=NAGANO OLYMPICS
 RDRAM Size=4
 Counter Factor=2
@@ -6126,8 +6126,8 @@ Cheat0=81000470 2400,810005D0 2400
 //I
 //
 [77DA3B8D-162B0D7C-C:4A]
-Good Name=ˆäo—m‰î‚Ì–ƒm (J)
-Internal Name=²ÃŞÖ³½¹ÉÏ°¼Ş¬İ¼Ş­¸
+Good Name=äº•å‡ºæ´‹ä»‹ã®éº»é›€å¡¾ (J)
+Internal Name=ï½²ï¾ƒï¾ï¾–ï½³ï½½ï½¹ï¾‰ï¾ï½°ï½¼ï¾ï½¬ï¾ï½¼ï¾ï½­ï½¸
 RDRAM Size=4
 Counter Factor=2
 Save Type=16kbit Eeprom
@@ -6146,7 +6146,7 @@ Audio Signal=No
 Cheat0=8100363C 2400
 
 [69458B9E-FC95F936-C:4A]
-Good Name=ƒCƒM[‚­‚ñ‚Ì‚Ô‚ç‚Ô‚ç‚Û‚æ‚ñ (J)
+Good Name=ã‚¤ã‚®ãƒ¼ãã‚“ã®ã¶ã‚‰ã¶ã‚‰ã½ã‚ˆã‚“ (J)
 Internal Name=BURABURA POYON
 RDRAM Size=4
 Counter Factor=2
@@ -6439,7 +6439,7 @@ Resolution Width=239
 Resolution Height=319
 
 [D137A2CA-62B65053-C:4A]
-Good Name=…ˆäd—¢‚ÌƒoƒX’Ş‚èNo.1 Œˆ’è”Å! (J)
+Good Name=ç³¸äº•é‡é‡Œã®ãƒã‚¹é‡£ã‚ŠNo.1 æ±ºå®šç‰ˆ! (J)
 Internal Name=BassFishingNo.1
 RDRAM Size=4
 Counter Factor=1
@@ -6460,8 +6460,8 @@ Plugin Note=[video] AV;use v1.5.2 plugin
 //J
 //
 [87766747-91C27165-C:4A]
-Good Name=JƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[64 (J)
-Internal Name=ÀŞ²ÅÏ²Ä»¯¶°64
+Good Name=Jãƒªãƒ¼ã‚° ãƒ€ã‚¤ãƒŠãƒã‚¤ãƒˆã‚µãƒƒã‚«ãƒ¼64 (J)
+Internal Name=ï¾€ï¾ï½²ï¾…ï¾ï½²ï¾„ï½»ï½¯ï½¶ï½°64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -6479,8 +6479,8 @@ Core Note=
 Audio Signal=No
 
 [4FBFA429-6920BB15-C:4A]
-Good Name=JƒŠ[ƒO ƒCƒŒƒuƒ“ƒr[ƒg 1997 (J)
-Internal Name=JØ°¸Ş ²ÚÌŞİËŞ°Ä1997
+Good Name=Jãƒªãƒ¼ã‚° ã‚¤ãƒ¬ãƒ–ãƒ³ãƒ“ãƒ¼ãƒˆ 1997 (J)
+Internal Name=Jï¾˜ï½°ï½¸ï¾ ï½²ï¾šï¾Œï¾ï¾ï¾‹ï¾ï½°ï¾„1997
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -6498,7 +6498,7 @@ Core Note=
 Audio Signal=No
 
 [54554A42-E4985FFB-C:4A]
-Good Name=JƒŠ[ƒO ƒ‰ƒCƒu64 (J)
+Good Name=Jãƒªãƒ¼ã‚° ãƒ©ã‚¤ãƒ–64 (J)
 Internal Name=J LEAGUE LIVE 64
 RDRAM Size=4
 Counter Factor=2
@@ -6514,7 +6514,7 @@ Linking=Global
 Status=Compatible
 
 [E8D29DA0-15E61D94-C:4A]
-Good Name=JƒŠ[ƒO ƒ^ƒNƒeƒBƒNƒXƒTƒbƒJ[ (J) (V1.0)
+Good Name=Jãƒªãƒ¼ã‚° ã‚¿ã‚¯ãƒ†ã‚£ã‚¯ã‚¹ã‚µãƒƒã‚«ãƒ¼ (J) (V1.0)
 Internal Name=TACTICS SOCCER
 RDRAM Size=4
 Counter Factor=2
@@ -6528,8 +6528,8 @@ Use Large Buffer=No
 Status=Compatible
 
 [C73AD016-48C5537D-C:4A]
-Good Name=‹ƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“ –ƒ“¹64 (J)
-Internal Name=Ï°¼Ş¬İÄŞ³64
+Good Name=é›€è±ªã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ éº»é›€é“64 (J)
+Internal Name=ï¾ï½°ï½¼ï¾ï½¬ï¾ï¾„ï¾ï½³64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -6668,7 +6668,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [AF19D9F5-B70223CC-C:4A]
-Good Name=À‹µG1ƒXƒeƒCƒuƒ‹ (J) (V1.0)
+Good Name=å®Ÿæ³G1ã‚¹ãƒ†ã‚¤ãƒ–ãƒ« (J) (V1.0)
 Internal Name=G1STABLE
 RDRAM Size=4
 Counter Factor=1
@@ -6682,7 +6682,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [63112A53-A29FA88F-C:4A]
-Good Name=À‹µJƒŠ[ƒO 1999 ƒpƒtƒFƒNƒgƒXƒgƒ‰ƒCƒJ[2 (J) (V1.0)
+Good Name=å®Ÿæ³Jãƒªãƒ¼ã‚° 1999 ãƒ‘ãƒ•ã‚§ã‚¯ãƒˆã‚¹ãƒˆãƒ©ã‚¤ã‚«ãƒ¼2 (J) (V1.0)
 Internal Name=PERFECT STRIKER2
 RDRAM Size=4
 Counter Factor=2
@@ -6700,7 +6700,7 @@ SP Hack=No
 Core Note=
 
 [146C4366-72A6DEB3-C:4A]
-Good Name=À‹µJƒŠ[ƒO ƒp[ƒtƒFƒNƒgƒXƒgƒ‰ƒCƒJ[ (J)
+Good Name=å®Ÿæ³Jãƒªãƒ¼ã‚° ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆã‚¹ãƒˆãƒ©ã‚¤ã‚«ãƒ¼ (J)
 Internal Name=PERFECT STRIKER
 RDRAM Size=4
 Counter Factor=1
@@ -6721,7 +6721,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [0AC244D1-1F0EC605-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…2000 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ2000 (J) (V1.0)
 Internal Name=PAWAPURO 2000
 RDRAM Size=4
 Counter Factor=2
@@ -6735,7 +6735,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [4264DF23-BE28BDF7-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…2000 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ2000 (J) (V1.1)
 Internal Name=PAWAPURO 2000
 RDRAM Size=4
 Counter Factor=2
@@ -6749,7 +6749,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [34495BAD-502E9D26-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…4 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ4 (J) (V1.0)
 Internal Name=PAWAFURU PUROYAKYU4
 RDRAM Size=4
 Counter Factor=2
@@ -6763,7 +6763,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [D7891F1C-C3E43788-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…4 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ4 (J) (V1.1)
 Internal Name=PAWAFURU PUROYAKYU4
 RDRAM Size=4
 Counter Factor=2
@@ -6777,7 +6777,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [D22943DA-AC2B77C0-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…5 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ5 (J) (V1.0)
 Internal Name=PAWAFURU PUROYAKYU5
 RDRAM Size=4
 Counter Factor=2
@@ -6791,7 +6791,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [B75E20B7-B3FEFDFD-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…6 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ6 (J) (V1.0)
 Internal Name=PAWAFURU PUROYAKYU6
 RDRAM Size=4
 Counter Factor=2
@@ -6805,7 +6805,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [6EDD4766-A93E9BA8-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹… Basic”Å 2001 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ Basicç‰ˆ 2001 (J) (V1.0)
 Internal Name=PAWAPURO 2001B
 RDRAM Size=4
 Counter Factor=2
@@ -6819,7 +6819,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [3FEA5620-7456DB40-C:4A]
-Good Name=À‹µƒ[ƒ‹ƒhƒTƒbƒJ[ ƒ[ƒ‹ƒhƒJƒbƒvƒtƒ‰ƒ“ƒX'98 (J) (V1.0)
+Good Name=å®Ÿæ³ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚µãƒƒã‚«ãƒ¼ ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚«ãƒƒãƒ—ãƒ•ãƒ©ãƒ³ã‚¹'98 (J) (V1.0)
 Internal Name=J.WORLD CUP 98
 RDRAM Size=4
 Counter Factor=2
@@ -6837,7 +6837,7 @@ SP Hack=No
 Core Note=
 
 [C954B38C-6F62BEB3-C:4A]
-Good Name=À‹µƒ[ƒ‹ƒhƒTƒbƒJ[ ƒ[ƒ‹ƒhƒJƒbƒvƒtƒ‰ƒ“ƒX'98 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚µãƒƒã‚«ãƒ¼ ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚«ãƒƒãƒ—ãƒ•ãƒ©ãƒ³ã‚¹'98 (J) (V1.1)
 Internal Name=J.WORLD CUP 98
 RDRAM Size=4
 Counter Factor=2
@@ -6855,7 +6855,7 @@ SP Hack=No
 Core Note=
 
 [E1C7ABD6-4E707F28-C:4A]
-Good Name=À‹µƒ[ƒ‹ƒhƒTƒbƒJ[ ƒ[ƒ‹ƒhƒJƒbƒvƒtƒ‰ƒ“ƒX'98 (J) (V1.2)
+Good Name=å®Ÿæ³ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚µãƒƒã‚«ãƒ¼ ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚«ãƒƒãƒ—ãƒ•ãƒ©ãƒ³ã‚¹'98 (J) (V1.2)
 Internal Name=J.WORLD CUP 98
 RDRAM Size=4
 Counter Factor=2
@@ -6873,7 +6873,7 @@ SP Hack=No
 Core Note=
 
 [E0A79F8C-32CC97FA-C:4A]
-Good Name=À‹µƒ[ƒ‹ƒhƒTƒbƒJ[3 (J)
+Good Name=å®Ÿæ³ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚µãƒƒã‚«ãƒ¼3 (J)
 Internal Name=J WORLD SOCCER3
 RDRAM Size=4
 Counter Factor=1
@@ -6895,7 +6895,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [916AE6B8-8817AB22-C:4A]
-Good Name=‹óímƒeƒ…ƒƒbƒN (J)
+Good Name=æ™‚ç©ºæˆ¦å£«ãƒ†ãƒ¥ãƒ­ãƒƒã‚¯ (J)
 Internal Name=turok_dinosaur_hunte
 RDRAM Size=4
 Counter Factor=2
@@ -6914,7 +6914,7 @@ Plugin Note=[video] (see GameFAQ)
 Audio Signal=No
 
 [4AAAF6ED-376428AD-C:4A]
-Good Name=l¶ƒQ[ƒ€64 (J)
+Good Name=äººç”Ÿã‚²ãƒ¼ãƒ 64 (J)
 Internal Name=JINSEI-GAME64
 RDRAM Size=4
 Counter Factor=2
@@ -6950,7 +6950,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [9D7E3C4B-E60F4A6C-C:4A]
-Good Name=‘å“ DAIKATANA (J)
+Good Name=å¤§åˆ€ DAIKATANA (J)
 Internal Name=DAIKATANA
 RDRAM Size=4
 Counter Factor=2
@@ -7000,7 +7000,7 @@ Resolution Height=-1
 //K
 //
 [4F29474F-30CB707A-C:4A]
-Good Name=Ši“¬“`³ F-CUP MANIAX (J)
+Good Name=æ ¼é—˜ä¼æ‰¿ F-CUP MANIAX (J)
 Internal Name=KAKUTOU DENSHOU
 RDRAM Size=4
 Counter Factor=2
@@ -7119,7 +7119,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [519EA4E1-EB7584E8-C:4A]
-Good Name=KING HILL64 ƒGƒNƒXƒgƒŠ[ƒ€ƒXƒm[ƒ{[ƒfƒBƒ“ƒO (J)
+Good Name=KING HILL64 ã‚¨ã‚¯ã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚¹ãƒãƒ¼ãƒœãƒ¼ãƒ‡ã‚£ãƒ³ã‚° (J)
 Internal Name=KING HILL 64
 RDRAM Size=8
 Counter Factor=2
@@ -7138,8 +7138,8 @@ Plugin Note=[video] errors:menu snowflakes
 Audio Signal=No
 
 [75BC6AD6-78552BC9-C:4A]
-Good Name=ƒLƒ‰ƒb‚Æ‰ğŒˆ!64’T’ã’c (J)
-Internal Name=·×¯Ä¶²¹Â 64ÀİÃ²ÀŞİ
+Good Name=ã‚­ãƒ©ãƒƒã¨è§£æ±º!64æ¢åµå›£ (J)
+Internal Name=ï½·ï¾—ï½¯ï¾„ï½¶ï½²ï½¹ï¾‚ 64ï¾€ï¾ï¾ƒï½²ï¾€ï¾ï¾
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -7223,7 +7223,7 @@ Core Note=
 Audio Signal=No
 
 [931AEF3F-EF196B90-C:4A]
-Good Name=ƒiƒCƒtƒGƒbƒW ƒm[ƒYƒKƒ“ƒi[ (J)
+Good Name=ãƒŠã‚¤ãƒ•ã‚¨ãƒƒã‚¸ ãƒãƒ¼ã‚ºã‚¬ãƒ³ãƒŠãƒ¼ (J)
 Internal Name=KNIFE EDGE
 RDRAM Size=4
 Counter Factor=2
@@ -7354,7 +7354,7 @@ Emulate Clear=0
 //L
 //
 [7F304099-52CF5276-C:4A]
-Good Name=ƒ‰ƒXƒgƒŒƒWƒIƒ“UX (J)
+Good Name=ãƒ©ã‚¹ãƒˆãƒ¬ã‚¸ã‚ªãƒ³UX (J)
 Internal Name=LASTLEGION UX
 RDRAM Size=4
 Counter Factor=2
@@ -7429,7 +7429,7 @@ Resolution Width=-1
 Resolution Height=240
 
 [3D67C62B-31D03150-C:4A]
-Good Name=Let'sƒXƒ}ƒbƒVƒ… (J)
+Good Name=Let'sã‚¹ãƒãƒƒã‚·ãƒ¥ (J)
 Internal Name=LET'S SMASH
 RDRAM Size=4
 Counter Factor=2
@@ -7466,7 +7466,7 @@ Core Note=
 Plugin Note=[video] missing:menu highlight
 
 [964ADD0B-B29213DB-C:4A]
-Good Name=ƒ[ƒhƒ‰ƒ“ƒi[3-D (J)
+Good Name=ãƒ­ãƒ¼ãƒ‰ãƒ©ãƒ³ãƒŠãƒ¼3-D (J)
 Internal Name=Lode Runner 3D
 RDRAM Size=4
 Counter Factor=2
@@ -7772,7 +7772,7 @@ SP Hack=No
 Core Note=
 
 [80C8564A-929C65AB-C:4A]
-Good Name=ƒ}ƒWƒJƒ‹ƒeƒgƒŠƒX ƒ`ƒƒƒŒƒ“ƒW featuring ƒ~ƒbƒL[ (J)
+Good Name=ãƒã‚¸ã‚«ãƒ«ãƒ†ãƒˆãƒªã‚¹ ãƒãƒ£ãƒ¬ãƒ³ã‚¸ featuring ãƒŸãƒƒã‚­ãƒ¼ (J)
 Internal Name=MAGICAL TETRIS
 RDRAM Size=4
 Counter Factor=2
@@ -7808,7 +7808,7 @@ SP Hack=No
 Core Note=
 
 [C53EDC41-ECE19359-C:4A]
-Good Name=–ƒ64 (J)
+Good Name=éº»é›€64 (J)
 Internal Name=MAHJONG64
 RDRAM Size=4
 Counter Factor=2
@@ -7822,8 +7822,8 @@ Use Large Buffer=No
 Status=Compatible
 
 [CCCC821E-96E88A83-C:4A]
-Good Name=–ƒ•ú˜Q‹LCLASSIC (J)
-Internal Name=Ï°¼Ş¬İÎ³Û³·CLASSIC
+Good Name=éº»é›€æ”¾æµªè¨˜CLASSIC (J)
+Internal Name=ï¾ï½°ï½¼ï¾ï½¬ï¾ï¾ï½³ï¾›ï½³ï½·CLASSIC
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -7841,8 +7841,8 @@ Core Note=
 Plugin Note=[video] (see GameFAQ)
 
 [0FC42C70-8754F1CD-C:4A]
-Good Name=–ƒMASTER (J)
-Internal Name=Ï°¼Ş¬İ Ï½À°
+Good Name=éº»é›€MASTER (J)
+Internal Name=ï¾ï½°ï½¼ï¾ï½¬ï¾ ï¾ï½½ï¾€ï½°
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -7923,7 +7923,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [D48944D1-B0D93A0E-C:4A]
-Good Name=ƒ}ƒŠƒIƒSƒ‹ƒt64 (J) (V1.0)
+Good Name=ãƒãƒªã‚ªã‚´ãƒ«ãƒ•64 (J) (V1.0)
 Internal Name=MarioGolf64
 RDRAM Size=4
 Counter Factor=2
@@ -8025,7 +8025,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [6BFF4758-E5FF5D5E-C:4A]
-Good Name=ƒ}ƒŠƒIƒJ[ƒg64 (J) (V1.0)
+Good Name=ãƒãƒªã‚ªã‚«ãƒ¼ãƒˆ64 (J) (V1.0)
 Internal Name=MARIOKART64
 RDRAM Size=4
 Counter Factor=2
@@ -8051,7 +8051,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [C9C3A987-5810344C-C:4A]
-Good Name=ƒ}ƒŠƒIƒJ[ƒg64 (J) (V1.1)
+Good Name=ãƒãƒªã‚ªã‚«ãƒ¼ãƒˆ64 (J) (V1.1)
 Internal Name=MARIOKART64
 RDRAM Size=4
 Counter Factor=2
@@ -8103,8 +8103,8 @@ Emulate Clear=0
 Audio Signal=No
 
 [9A9890AC-F0C313DF-C:4A]
-Good Name=ƒ}ƒŠƒI‚Ì‚Ó‚§‚Æ‚Ò` (J)
-Internal Name=ÏØµÉÌ«ÄËß°
+Good Name=ãƒãƒªã‚ªã®ãµã‰ã¨ã´ï½ (J)
+Internal Name=ï¾ï¾˜ï½µï¾‰ï¾Œï½«ï¾„ï¾‹ï¾Ÿï½°
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -8140,7 +8140,7 @@ SP Hack=No
 Core Note=
 
 [ADA815BE-6028622F-C:4A]
-Good Name=ƒ}ƒŠƒIƒp[ƒeƒB (J)
+Good Name=ãƒãƒªã‚ªãƒ‘ãƒ¼ãƒ†ã‚£ (J)
 Internal Name=MarioParty
 RDRAM Size=4
 Counter Factor=1
@@ -8194,7 +8194,7 @@ SP Hack=No
 Core Note=
 
 [ED567D0F-38B08915-C:4A]
-Good Name=ƒ}ƒŠƒIƒp[ƒeƒB2 (J)
+Good Name=ãƒãƒªã‚ªãƒ‘ãƒ¼ãƒ†ã‚£2 (J)
 Internal Name=MarioParty2
 RDRAM Size=4
 Counter Factor=1
@@ -8248,7 +8248,7 @@ SP Hack=No
 Core Note=
 
 [0B0AB4CD-7B158937-C:4A]
-Good Name=ƒ}ƒŠƒIƒp[ƒeƒB3 (J)
+Good Name=ãƒãƒªã‚ªãƒ‘ãƒ¼ãƒ†ã‚£3 (J)
 Internal Name=MarioParty3
 RDRAM Size=4
 Counter Factor=1
@@ -8284,7 +8284,7 @@ SP Hack=No
 Core Note=
 
 [3BA7CDDC-464E52A0-C:4A]
-Good Name=ƒ}ƒŠƒIƒXƒg[ƒŠ[ (J)
+Good Name=ãƒãƒªã‚ªã‚¹ãƒˆãƒ¼ãƒªãƒ¼ (J)
 Internal Name=MARIO STORY
 RDRAM Size=4
 Counter Factor=1
@@ -8337,7 +8337,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [3A6C42B5-1ACADA1B-C:4A]
-Good Name=ƒ}ƒŠƒIƒeƒjƒX64 (J)
+Good Name=ãƒãƒªã‚ªãƒ†ãƒ‹ã‚¹64 (J)
 Internal Name=MarioTennis64
 RDRAM Size=4
 Counter Factor=2
@@ -8437,7 +8437,7 @@ Delay SI=No
 SP Hack=No
 
 [736AE6AF-4117E9C7-C:4A]
-Good Name=ƒ~ƒbƒL[‚ÌƒŒ[ƒVƒ“ƒOƒ`ƒƒƒŒƒ“ƒWUSA (J)
+Good Name=ãƒŸãƒƒã‚­ãƒ¼ã®ãƒ¬ãƒ¼ã‚·ãƒ³ã‚°ãƒãƒ£ãƒ¬ãƒ³ã‚¸USA (J)
 Internal Name=MICKEY USA
 RDRAM Size=4
 Counter Factor=2
@@ -8875,8 +8875,8 @@ Emulate Clear=0
 Audio Signal=No
 
 [E8E8DD70-415DD198-C:4A]
-Good Name=X“c«Šû64 (J)
-Internal Name=ÓØÀ¼®³·Ş64
+Good Name=æ£®ç”°å°†æ£‹64 (J)
+Internal Name=ï¾“ï¾˜ï¾€ï½¼ï½®ï½³ï½·ï¾64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -9042,7 +9042,7 @@ Core Note=
 Plugin Note=[video] errors:various;use D3D6 plugin
 
 [A6B6B413-15D113CC-C:4A]
-Good Name=ƒ}ƒ‹ƒ`ƒŒ[ƒVƒ“ƒOƒ`ƒƒƒ“ƒsƒIƒ“ƒVƒbƒv (J)
+Good Name=ãƒãƒ«ãƒãƒ¬ãƒ¼ã‚·ãƒ³ã‚°ãƒãƒ£ãƒ³ãƒ”ã‚ªãƒ³ã‚·ãƒƒãƒ— (J)
 Internal Name=MULTI RACING
 RDRAM Size=4
 Counter Factor=2
@@ -9644,7 +9644,7 @@ SP Hack=No
 Audio Signal=Yes
 
 [147E0EDB-36C5B12C-C:4A]
-Good Name=V¢‹IƒGƒ”ƒ@ƒ“ƒQƒŠƒIƒ“ (J)
+Good Name=æ–°ä¸–ç´€ã‚¨ãƒ´ã‚¡ãƒ³ã‚²ãƒªã‚ªãƒ³ (J)
 Internal Name=EVANGELION
 RDRAM Size=4
 Counter Factor=2
@@ -10041,7 +10041,7 @@ Resolution Height=-1
 Audio Signal=No
 
 [CD3C3CDF-317793FA-C:4A]
-Good Name=”E‚½‚Ü—‘¾˜Y64 ƒQ[ƒ€ƒMƒƒƒ‰ƒŠ[ (J)
+Good Name=å¿ãŸã¾ä¹±å¤ªéƒ64 ã‚²ãƒ¼ãƒ ã‚®ãƒ£ãƒ©ãƒªãƒ¼ (J)
 Internal Name=NINTAMAGAMEGALLERY64
 RDRAM Size=4
 Counter Factor=1
@@ -10060,7 +10060,7 @@ Plugin Note=[video] slow. errors:various
 Audio Signal=No
 
 [67D20729-F696774C-C:4A]
-Good Name=ƒjƒ“ƒeƒ“ƒhƒEƒI[ƒ‹ƒXƒ^[! ‘å—“¬ƒXƒ}ƒbƒVƒ…ƒuƒ‰ƒU[ƒY (J)
+Good Name=ãƒ‹ãƒ³ãƒ†ãƒ³ãƒ‰ã‚¦ã‚ªãƒ¼ãƒ«ã‚¹ã‚¿ãƒ¼! å¤§ä¹±é—˜ã‚¹ãƒãƒƒã‚·ãƒ¥ãƒ–ãƒ©ã‚¶ãƒ¼ã‚º (J)
 Internal Name=SMASH BROTHERS
 RDRAM Size=4
 CPU Type=Recompiler
@@ -10132,8 +10132,8 @@ Delay SI=No
 SP Hack=No
 
 [5B9B1618-1B43C649-C:4A]
-Good Name=‚Ê‚µ’Ş‚è64 ’ª•—‚É‚Ì‚Á‚Ä (J)
-Internal Name=Ç¼ÂŞØ64¼µ¶¾ŞÆÉ¯Ã
+Good Name=ã¬ã—é‡£ã‚Š64 æ½®é¢¨ã«ã®ã£ã¦ (J)
+Internal Name=ï¾‡ï½¼ï¾‚ï¾ï¾˜64ï½¼ï½µï½¶ï½¾ï¾ï¾†ï¾‰ï½¯ï¾ƒ
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -10151,8 +10151,8 @@ Plugin Note=[video] unsupported/missing graphics
 Audio Signal=No
 
 [D83BB920-CC406416-C:4A]
-Good Name=‚Ê‚µ’Ş‚è64 (J) (V1.0)
-Internal Name=Ç¼ÂŞØ64
+Good Name=ã¬ã—é‡£ã‚Š64 (J) (V1.0)
+Internal Name=ï¾‡ï½¼ï¾‚ï¾ï¾˜64
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -10207,7 +10207,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [90F43037-5C5370F5-C:4A]
-Good Name=ƒIƒŠƒ“ƒsƒbƒN ƒzƒbƒP[ ƒiƒKƒm98 (J)
+Good Name=ã‚ªãƒªãƒ³ãƒ”ãƒƒã‚¯ ãƒ›ãƒƒã‚±ãƒ¼ ãƒŠã‚¬ãƒ98 (J)
 Internal Name=OLYMPIC HOCKEY
 RDRAM Size=4
 Counter Factor=2
@@ -10262,7 +10262,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [0375CF67-56A93FAA-C:4A]
-Good Name=ƒIƒEƒKƒoƒgƒ‹64 Person of Lordly Caliber (J) (V1.1)
+Good Name=ã‚ªã‚¦ã‚¬ãƒãƒˆãƒ«64 Person of Lordly Caliber (J) (V1.1)
 Internal Name=OgreBattle64
 RDRAM Size=4
 Counter Factor=2
@@ -10300,7 +10300,7 @@ Core Note=
 Audio Signal=No
 
 [DC649466-572FF0D9-C:4A]
-Good Name=‚¨‚Ë‚ª‚¢ƒ‚ƒ“ƒXƒ^[ (J)
+Good Name=ãŠã­ãŒã„ãƒ¢ãƒ³ã‚¹ã‚¿ãƒ¼ (J)
 Internal Name=ONEGAI MONSTER
 RDRAM Size=4
 Counter Factor=2
@@ -10335,7 +10335,7 @@ Audio Signal=No
 //P
 //
 [74554B3B-F4AEBCB5-C:4A]
-Good Name=ƒpƒ`ƒ“ƒR365“ú (J)
+Good Name=ãƒ‘ãƒãƒ³ã‚³365æ—¥ (J)
 Internal Name=PACHINKO365NICHI
 RDRAM Size=4
 Counter Factor=2
@@ -10446,7 +10446,7 @@ Audio Signal=No
 SP Hack=No
 
 [CFE2CB31-4D6B1E1D-C:4A]
-Good Name=Parlor!PRO64 ƒpƒ`ƒ“ƒRÀ‹@ƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“ƒQ[ƒ€ (J)
+Good Name=Parlor!PRO64 ãƒ‘ãƒãƒ³ã‚³å®Ÿæ©Ÿã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã‚²ãƒ¼ãƒ  (J)
 Internal Name=Parlor PRO 64
 RDRAM Size=4
 Counter Factor=2
@@ -10466,7 +10466,7 @@ Audio Signal=No
 
 
 [F468118C-E32EE44E-C:4A]
-Good Name=PDƒEƒ‹ƒgƒ‰ƒ}ƒ“ ƒoƒgƒ‹ƒRƒŒƒNƒVƒ‡ƒ“64 (J)
+Good Name=PDã‚¦ãƒ«ãƒˆãƒ©ãƒãƒ³ ãƒãƒˆãƒ«ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³64 (J)
 Internal Name=Ultraman Battle JAPA
 RDRAM Size=4
 Counter Factor=2
@@ -10543,7 +10543,7 @@ Clear Frame=2
 Audio Signal=No
 
 [96747EB4-104BB243-C:4A]
-Good Name=ƒp[ƒtƒFƒNƒgƒ_[ƒN (J)
+Good Name=ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ€ãƒ¼ã‚¯ (J)
 Internal Name=PERFECT DARK
 RDRAM Size=8
 Counter Factor=2
@@ -10652,7 +10652,7 @@ Core Note=
 Plugin Note=[video] (see GameFAQ)
 
 [3F245305-FC0B74AA-C:4A]
-Good Name=ƒsƒJƒ`ƒ…ƒE‚°‚ñ‚«‚Å‚¿‚ã‚¤ (J)
+Good Name=ãƒ”ã‚«ãƒãƒ¥ã‚¦ã’ã‚“ãã§ã¡ã‚…ã† (J)
 Internal Name=PIKACHU GENKIDECHU
 RDRAM Size=4
 Counter Factor=2
@@ -10694,7 +10694,7 @@ Resolution Height=-1
 Audio Signal=No
 
 [09CC4801-E42EE491-C:4A]
-Good Name=ƒpƒCƒƒbƒgƒEƒBƒ“ƒOƒX64 (J)
+Good Name=ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆã‚¦ã‚£ãƒ³ã‚°ã‚¹64 (J)
 Internal Name=Pilot Wings64
 RDRAM Size=4
 Counter Factor=3
@@ -10928,7 +10928,7 @@ Cheat1=D11E3994 2881,811E3994 2001,D11E3996 0098,811E3996 0001 //Make Picture se
 Audio Signal=No
 
 [EC0F690D-32A7438C-C:4A]
-Good Name=ƒ|ƒPƒ‚ƒ“ƒXƒiƒbƒv (J) (V1.0)
+Good Name=ãƒã‚±ãƒ¢ãƒ³ã‚¹ãƒŠãƒƒãƒ— (J) (V1.0)
 Internal Name=POKEMON SNAP
 RDRAM Size=4
 Counter Factor=2
@@ -11168,7 +11168,7 @@ Emulate Clear=1
 Audio Signal=No
 
 [665E8259-D098BD1D-C:4A]
-Good Name=ƒ|ƒPƒ‚ƒ“ƒXƒ^ƒWƒAƒ€ (J)
+Good Name=ãƒã‚±ãƒ¢ãƒ³ã‚¹ã‚¿ã‚¸ã‚¢ãƒ  (J)
 Internal Name=POKEMON STADIUM
 RDRAM Size=4
 Counter Factor=2
@@ -11322,7 +11322,7 @@ Core Note=
 Audio Signal=No
 
 [63775886-5FB80E7B-C:4A]
-Good Name=ƒ|ƒPƒ‚ƒ“ƒXƒ^ƒWƒAƒ€2 (J)
+Good Name=ãƒã‚±ãƒ¢ãƒ³ã‚¹ã‚¿ã‚¸ã‚¢ãƒ 2 (J)
 Internal Name=POKEMON STADIUM 2
 RDRAM Size=4
 Counter Factor=2
@@ -11386,7 +11386,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [EE4FD7C2-9CF1D938-C:4A]
-Good Name=ƒ|ƒPƒ‚ƒ“ƒXƒ^ƒWƒAƒ€ ‹à‹â (J)
+Good Name=ãƒã‚±ãƒ¢ãƒ³ã‚¹ã‚¿ã‚¸ã‚¢ãƒ  é‡‘éŠ€ (J)
 Internal Name=POKEMON STADIUM G&S
 RDRAM Size=8
 Counter Factor=2
@@ -11424,7 +11424,7 @@ Core Note=
 Audio Signal=No
 
 [D7A6DCFA-CCFEB6B7-C:4A]
-Good Name=ƒpƒ[ƒŠ[ƒO64 (J)
+Good Name=ãƒ‘ãƒ¯ãƒ¼ãƒªãƒ¼ã‚°64 (J)
 Internal Name=PowerLeague64
 RDRAM Size=4
 Counter Factor=2
@@ -11496,7 +11496,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [9BA10C4E-0408ABD3-C:4A]
-Good Name=ƒvƒ–ƒ ‹É64 (J) (V1.0)
+Good Name=ãƒ—ãƒ­éº»é›€ æ¥µ64 (J) (V1.0)
 Internal Name=KIWAME 64
 RDRAM Size=4
 Counter Factor=1
@@ -11513,7 +11513,7 @@ Audio Signal=No
 SP Hack=No
 
 [1BDCB30F-A132D876-C:4A]
-Good Name=ƒvƒ–ƒ •º64 ‘‘ƒoƒgƒ‹‚É’§í (J)
+Good Name=ãƒ—ãƒ­éº»é›€ å…µ64 é›€è˜ãƒãƒˆãƒ«ã«æŒ‘æˆ¦ (J)
 Internal Name=TSUWAMONO64
 RDRAM Size=4
 Counter Factor=1
@@ -11532,7 +11532,7 @@ Core Note=
 Plugin Note=[video] slow. errors:textures
 
 [4B4672B9-2DBE5DE7-C:4A]
-Good Name=‚Õ‚æ‚Õ‚æ`‚ñƒp[ƒeƒB[ (J)
+Good Name=ã·ã‚ˆã·ã‚ˆï½ã‚“ãƒ‘ãƒ¼ãƒ†ã‚£ãƒ¼ (J)
 Internal Name=PUYOPUYO4
 RDRAM Size=4
 Counter Factor=2
@@ -11550,7 +11550,7 @@ SP Hack=No
 Core Note=
 
 [94807E6B-60CC62E4-C:4A]
-Good Name=‚Õ‚æ‚Õ‚æSUN64 (J)
+Good Name=ã·ã‚ˆã·ã‚ˆSUN64 (J)
 Internal Name=PUYO PUYO SUN 64
 RDRAM Size=4
 Counter Factor=2
@@ -11569,7 +11569,7 @@ Core Note=
 Audio Signal=No
 
 [C0DE0747-A2DF72D3-C:4A]
-Good Name=ƒpƒYƒ‹ƒ{ƒuƒ‹64 (J)
+Good Name=ãƒ‘ã‚ºãƒ«ãƒœãƒ–ãƒ«64 (J)
 Internal Name=PUZZLEBOBBLE64
 RDRAM Size=4
 Counter Factor=2
@@ -11755,7 +11755,7 @@ Core Note=
 Audio Signal=No
 
 [9F1ECAF0-EEC48A0E-C:4A]
-Good Name=‚ç‚­‚ª‚«‚Á‚¸ (J)
+Good Name=ã‚‰ããŒãã£ãš (J)
 Internal Name=RAKUGAKIDS
 RDRAM Size=4
 Counter Factor=2
@@ -11774,7 +11774,7 @@ Core Note=
 Audio Signal=No
 
 [35D9BA0C-DF485586-C:4A]
-Good Name=ƒ‰ƒŠ[ '99 (J)
+Good Name=ãƒ©ãƒªãƒ¼ '99 (J)
 Internal Name=Rally'99
 RDRAM Size=4
 Counter Factor=2
@@ -12222,7 +12222,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [272B690F-AD0A7A77-C:4A]
-Good Name=ƒƒ{ƒbƒgƒ|ƒ“ƒRƒbƒc64 µ‚Â‚ÌŠC‚ÌƒJƒ‰ƒƒ‹ (J)
+Good Name=ãƒ­ãƒœãƒƒãƒˆãƒãƒ³ã‚³ãƒƒãƒ„64 ä¸ƒã¤ã®æµ·ã®ã‚«ãƒ©ãƒ¡ãƒ« (J)
 Internal Name=Robopon64
 RDRAM Size=4
 Counter Factor=2
@@ -12316,7 +12316,7 @@ Culling=1
 Emulate Clear=0
 
 [D666593B-D7A25C07-C:4A]
-Good Name=ƒƒbƒNƒ}ƒ“DASH |‚Ì–`Œ¯S (J)
+Good Name=ãƒ­ãƒƒã‚¯ãƒãƒ³DASH é‹¼ã®å†’é™ºå¿ƒ (J)
 Internal Name=RockMan Dash
 RDRAM Size=4
 Counter Factor=2
@@ -12550,8 +12550,8 @@ Core Note=
 Audio Signal=No
 
 [5E3E60E8-4AB5D495-C:4A]
-Good Name=Å‹­‰H¶«Šû (J)
-Internal Name=»²·®³ÊÌŞ¼®³·Ş
+Good Name=æœ€å¼·ç¾½ç”Ÿå°†æ£‹ (J)
+Internal Name=ï½»ï½²ï½·ï½®ï½³ï¾Šï¾Œï¾ï½¼ï½®ï½³ï½·ï¾
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -12681,7 +12681,7 @@ Resolution Width=480
 Resolution Height=-1
 
 [EBF5F6B7-C956D739-C:4A]
-Good Name=SD”ò—´‚ÌŒ“`à (J)
+Good Name=SDé£›é¾ã®æ‹³ä¼èª¬ (J)
 Internal Name=SD HIRYU STADIUM
 RDRAM Size=4
 Counter Factor=2
@@ -12831,7 +12831,7 @@ SP Hack=No
 Audio Signal=No
 
 [CCEDB696-D3883DB4-C:4A]
-Good Name=ƒVƒƒƒhƒEƒQƒCƒg64 Trials Of The Four Towers (J)
+Good Name=ã‚·ãƒ£ãƒ‰ã‚¦ã‚²ã‚¤ãƒˆ64 Trials Of The Four Towers (J)
 Internal Name=SHADOWGATE64
 RDRAM Size=4
 Counter Factor=2
@@ -12872,7 +12872,7 @@ Resolution Height=-1
 Audio Signal=No
 
 [EF703CA4-4D4A9AC9-C:4A]
-Good Name=V“ú–{ƒvƒƒŒƒXƒŠƒ“ƒO “¬°‰Š“± BRAVE SPIRITS (J)
+Good Name=æ–°æ—¥æœ¬ãƒ—ãƒ­ãƒ¬ã‚¹ãƒªãƒ³ã‚° é—˜é­‚ç‚å° BRAVE SPIRITS (J)
 Internal Name=TOUKON ROAD
 RDRAM Size=4
 Counter Factor=2
@@ -12891,7 +12891,7 @@ SP Hack=No
 Audio Signal=No
 
 [551C7F43-9149831C-C:4A]
-Good Name=V“ú–{ƒvƒƒŒƒXƒŠƒ“ƒO “¬°‰Š“±2 THE NEXT GENERATION (J)
+Good Name=æ–°æ—¥æœ¬ãƒ—ãƒ­ãƒ¬ã‚¹ãƒªãƒ³ã‚° é—˜é­‚ç‚å°2 THE NEXT GENERATION (J)
 Internal Name=TOUKON ROAD2
 RDRAM Size=4
 Counter Factor=2
@@ -12909,7 +12909,7 @@ Delay SI=No
 SP Hack=No
 
 [B1D5280C-4BA7BC2A-C:4A]
-Good Name=ƒVƒ€ƒVƒeƒB2000 (J)
+Good Name=ã‚·ãƒ ã‚·ãƒ†ã‚£2000 (J)
 Internal Name=SIM CITY 2000
 RDRAM Size=4
 Counter Factor=2
@@ -12928,7 +12928,7 @@ Core Note=
 Audio Signal=No
 
 [2EF4D519-C64A0C5E-C:4A]
-Good Name=ƒXƒm[ƒXƒs[ƒ_[ (J)
+Good Name=ã‚¹ãƒãƒ¼ã‚¹ãƒ”ãƒ¼ãƒ€ãƒ¼ (J)
 Internal Name=Snow Speeder
 RDRAM Size=4
 Counter Factor=2
@@ -13028,8 +13028,8 @@ Use Large Buffer=No
 Status=Compatible
 
 [84FC04FF-B1253CE9-C:4A]
-Good Name=ƒXƒmƒ{ƒLƒbƒY (J)
-Internal Name=½ÉÎŞ·¯½Ş
+Good Name=ã‚¹ãƒãƒœã‚­ãƒƒã‚º (J)
+Internal Name=ï½½ï¾‰ï¾ï¾ï½·ï½¯ï½½ï¾
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -13053,7 +13053,7 @@ Culling=1
 Emulate Clear=0
 
 [22212351-4046594B-C:4A]
-Good Name=ƒ\ƒjƒbƒNƒEƒBƒ“ƒOƒX ƒAƒTƒ‹ƒg (J)
+Good Name=ã‚½ãƒ‹ãƒƒã‚¯ã‚¦ã‚£ãƒ³ã‚°ã‚¹ ã‚¢ã‚µãƒ«ãƒˆ (J)
 Internal Name=SONIC WINGS ASSAULT
 RDRAM Size=4
 Counter Factor=2
@@ -13191,7 +13191,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [37463412-EAC5388D-C:4A]
-Good Name=ƒXƒy[ƒXƒ_ƒCƒiƒ}ƒCƒc (J)
+Good Name=ã‚¹ãƒšãƒ¼ã‚¹ãƒ€ã‚¤ãƒŠãƒã‚¤ãƒ„ (J)
 Internal Name=SPACE DYNAMITES
 RDRAM Size=4
 Counter Factor=2
@@ -13321,7 +13321,7 @@ Core Note=
 Plugin Note=[video] (see GameFAQ)
 
 [FFCAA7C1-68858537-C:4A]
-Good Name=ƒXƒ^[ƒtƒHƒbƒNƒX64 (J) (V1.0)
+Good Name=ã‚¹ã‚¿ãƒ¼ãƒ•ã‚©ãƒƒã‚¯ã‚¹64 (J) (V1.0)
 Internal Name=STARFOX64
 RDRAM Size=4
 Counter Factor=2
@@ -13381,7 +13381,7 @@ Plugin Note=
 Audio Signal=No
 
 [B703EB23-28AAE53A-C:4A]
-Good Name=ƒXƒ^[ƒ\ƒ‹ƒWƒƒ[ ƒoƒjƒVƒ“ƒOƒA[ƒX (J)
+Good Name=ã‚¹ã‚¿ãƒ¼ã‚½ãƒ«ã‚¸ãƒ£ãƒ¼ ãƒãƒ‹ã‚·ãƒ³ã‚°ã‚¢ãƒ¼ã‚¹ (J)
 Internal Name=STAR SOLDIER
 RDRAM Size=4
 Counter Factor=2
@@ -13409,7 +13409,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [F163A242-F2449B3B-C:4A]
-Good Name=ƒXƒ^[ƒcƒCƒ“ƒY (J)
+Good Name=ã‚¹ã‚¿ãƒ¼ãƒ„ã‚¤ãƒ³ã‚º (J)
 Internal Name=STAR TWINS
 RDRAM Size=4
 Counter Factor=2
@@ -13511,7 +13511,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [FE24AC63-1B41AA17-C:4A]
-Good Name=ƒXƒ^[ƒEƒH[ƒY ’é‘‚Ì‰e (J)
+Good Name=ã‚¹ã‚¿ãƒ¼ã‚¦ã‚©ãƒ¼ã‚º å¸å›½ã®å½± (J)
 Internal Name=Shadow of the Empire
 RDRAM Size=4
 Counter Factor=2
@@ -13603,7 +13603,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [827E4890-958468DC-C:4A]
-Good Name=ƒXƒ^[ƒEƒH[ƒY oŒ‚!ƒ[ƒO’†‘à (J)
+Good Name=ã‚¹ã‚¿ãƒ¼ã‚¦ã‚©ãƒ¼ã‚º å‡ºæ’ƒ!ãƒ­ãƒ¼ã‚°ä¸­éšŠ (J)
 Internal Name=rogue squadron
 RDRAM Size=8
 Counter Factor=2
@@ -13684,7 +13684,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [61F5B152-046122AB-C:4A]
-Good Name=ƒXƒ^[ƒEƒH[ƒY ƒGƒsƒ\[ƒh1ƒŒ[ƒT[ (J)
+Good Name=ã‚¹ã‚¿ãƒ¼ã‚¦ã‚©ãƒ¼ã‚º ã‚¨ãƒ”ã‚½ãƒ¼ãƒ‰1ãƒ¬ãƒ¼ã‚µãƒ¼ (J)
 Internal Name=STAR WARS EP1 RACER
 RDRAM Size=8
 Counter Factor=2
@@ -13839,7 +13839,7 @@ Core Note=
 Plugin Note=[video] unsupported
 
 [F4646B69-C5751095-C:4A]
-Good Name=ƒX[ƒp[ƒr[ƒ_ƒ}ƒ“ ƒoƒgƒ‹ƒtƒFƒjƒbƒNƒX64 (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ“ãƒ¼ãƒ€ãƒãƒ³ ãƒãƒˆãƒ«ãƒ•ã‚§ãƒ‹ãƒƒã‚¯ã‚¹64 (J)
 Internal Name=BattlePhoenix64
 RDRAM Size=4
 Counter Factor=2
@@ -13858,7 +13858,7 @@ Core Note=
 Audio Signal=No
 
 [F3F2F385-6E490C7F-C:4A]
-Good Name=ƒX[ƒp[ƒ{ƒEƒŠƒ“ƒO (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒœã‚¦ãƒªãƒ³ã‚° (J)
 Internal Name=SUPER BOWLING
 RDRAM Size=4
 Counter Factor=2
@@ -13917,7 +13917,7 @@ Clear Frame=0
 Audio Signal=No
 
 [4EAA3D0E-74757C24-C:4A]
-Good Name=ƒX[ƒp[ƒ}ƒŠƒI64 (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒãƒªã‚ª64 (J)
 Internal Name=SUPER MARIO 64
 RDRAM Size=4
 Counter Factor=2
@@ -13961,7 +13961,7 @@ Emulate Clear=0
 MD5=49FBF9C744C458405F685D42B762A0BE
 
 [D6FBA4A8-6326AA2C-C:4A]
-Good Name=ƒX[ƒp[ƒ}ƒŠƒI64 U“®ƒpƒbƒN‘Î‰ƒo[ƒWƒ‡ƒ“ (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒãƒªã‚ª64 æŒ¯å‹•ãƒ‘ãƒƒã‚¯å¯¾å¿œãƒãƒ¼ã‚¸ãƒ§ãƒ³ (J)
 Internal Name=SUPERMARIO64
 RDRAM Size=4
 Counter Factor=2
@@ -13979,7 +13979,7 @@ SP Hack=No
 Core Note=
 
 [66572080-28E348E1-C:4A]
-Good Name=ƒX[ƒp[ƒƒ{ƒbƒgƒXƒsƒŠƒbƒc (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ­ãƒœãƒƒãƒˆã‚¹ãƒ”ãƒªãƒƒãƒ„ (J)
 Internal Name=SUPERROBOTSPIRITS
 RDRAM Size=4
 Counter Factor=2
@@ -14002,8 +14002,8 @@ Culling=1
 Emulate Clear=0
 
 [1649D810-F73AD6D2-C:4A]
-Good Name=ƒX[ƒp[ƒƒ{ƒbƒg‘åí64 (J)
-Internal Name=½°Êß°ÛÎŞ¯ÄÀ²¾İ64
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ­ãƒœãƒƒãƒˆå¤§æˆ¦64 (J)
+Internal Name=ï½½ï½°ï¾Šï¾Ÿï½°ï¾›ï¾ï¾ï½¯ï¾„ï¾€ï½²ï½¾ï¾64
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -14085,7 +14085,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [9CE02E22-206EF1B0-C:4A]
-Good Name=ƒX[ƒp[ƒXƒs[ƒhƒŒ[ƒX64 (J)
+Good Name=ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚¹ãƒ”ãƒ¼ãƒ‰ãƒ¬ãƒ¼ã‚¹64 (J)
 Internal Name=SUPER SPEED RACE 64
 RDRAM Size=4
 CPU Type=Recompiler
@@ -14173,8 +14173,8 @@ Core Note=
 Plugin Note=[video] missing:fog on sky
 
 [35E811F3-99792724-C:4A]
-Good Name=i‚ß!‘Îí‚Ï‚¸‚é‚¾‚Ü “¬°!‚Ü‚é‚½‚Ü’¬ (J)
-Internal Name=½½Ò!À²¾İÊß½ŞÙÀŞÏ
+Good Name=é€²ã‚!å¯¾æˆ¦ã±ãšã‚‹ã ã¾ é—˜é­‚!ã¾ã‚‹ãŸã¾ç”º (J)
+Internal Name=ï½½ï½½ï¾’!ï¾€ï½²ï½¾ï¾ï¾Šï¾Ÿï½½ï¾ï¾™ï¾€ï¾ï¾
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -15132,7 +15132,7 @@ Audio Signal=No
 Cheat0=D10021EE 0001,810021EE 0000 //Game Playable Fix (Gent)
 
 [845B0269-57DE9502-C:4A]
-Good Name=ƒgƒbƒvƒMƒA¥ƒnƒCƒp[ƒoƒCƒN (J)
+Good Name=ãƒˆãƒƒãƒ—ã‚®ã‚¢ï½¥ãƒã‚¤ãƒ‘ãƒ¼ãƒã‚¤ã‚¯ (J)
 Internal Name=Top Gear Hyper Bike
 RDRAM Size=4
 Counter Factor=2
@@ -15197,7 +15197,7 @@ Resolution Height=239
 Cheat0=D1001AB2 0001,81001AB2 0000 //Game Playble Fix
 
 [0578F24F-9175BF17-C:4A]
-Good Name=ƒgƒbƒvƒMƒA ƒI[ƒo[ƒhƒ‰ƒCƒu (J)
+Good Name=ãƒˆãƒƒãƒ—ã‚®ã‚¢ ã‚ªãƒ¼ãƒãƒ¼ãƒ‰ãƒ©ã‚¤ãƒ– (J)
 Internal Name=Top Gear Overdrive
 RDRAM Size=4
 Counter Factor=2
@@ -15261,7 +15261,7 @@ Core Note=no sound
 Audio Signal=No
 
 [0E596247-753D4B8B-C:4A]
-Good Name=ƒgƒbƒvƒMƒA¥ƒ‰ƒŠ[ (J)
+Good Name=ãƒˆãƒƒãƒ—ã‚®ã‚¢ï½¥ãƒ©ãƒªãƒ¼ (J)
 Internal Name=TOP GEAR RALLY
 RDRAM Size=4
 Counter Factor=2
@@ -15325,7 +15325,7 @@ Resolution Height=-1
 Emulate Clear=0
 
 [CFEF2CD6-C9E973E6-C:4A]
-Good Name=ƒgƒbƒvƒMƒA¥ƒ‰ƒŠ[2 (J)
+Good Name=ãƒˆãƒƒãƒ—ã‚®ã‚¢ï½¥ãƒ©ãƒªãƒ¼2 (J)
 Internal Name=TOP GEAR RALLY 2
 RDRAM Size=4
 Counter Factor=2
@@ -15437,7 +15437,7 @@ Status=Compatible
 Audio Signal=No
 
 [91691C3D-F4AC5B4D-C:4A]
-Good Name=ƒgƒ‰ƒ“ƒXƒtƒH[ƒ}[ ƒr[ƒXƒgƒEƒH[ƒYƒƒ^ƒ‹ƒX64 (J)
+Good Name=ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒãƒ¼ ãƒ“ãƒ¼ã‚¹ãƒˆã‚¦ã‚©ãƒ¼ã‚ºãƒ¡ã‚¿ãƒ«ã‚¹64 (J)
 Internal Name=BEASTWARSMETALS64
 RDRAM Size=4
 Counter Factor=2
@@ -15493,7 +15493,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [B6BC0FB0-E3812198-C:4A]
-Good Name=ß‚Æ”± ’n‹…‚ÌŒp³Ò (J)
+Good Name=ç½ªã¨ç½° åœ°çƒã®ç¶™æ‰¿è€… (J)
 Internal Name=TSUMI TO BATSU
 RDRAM Size=8
 Counter Factor=2
@@ -15863,8 +15863,8 @@ Audio Signal=No
 //U
 //
 [28D5562D-E4D5AE50-C:4A]
-Good Name=ƒEƒbƒ`ƒƒƒ“ƒiƒ“ƒ`ƒƒƒ“‚Ì‰Š‚Ìƒ`ƒƒƒŒƒ“ƒWƒƒ[ “d—¬ƒCƒ‰ƒCƒ‰–_ (J)
-Internal Name=ÃŞİØ­³²×²×ÎŞ³
+Good Name=ã‚¦ãƒƒãƒãƒ£ãƒ³ãƒŠãƒ³ãƒãƒ£ãƒ³ã®ç‚ã®ãƒãƒ£ãƒ¬ãƒ³ã‚¸ãƒ£ãƒ¼ é›»æµã‚¤ãƒ©ã‚¤ãƒ©æ£’ (J)
+Internal Name=ï¾ƒï¾ï¾ï¾˜ï½­ï½³ï½²ï¾—ï½²ï¾—ï¾ï¾ï½³
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -16011,7 +16011,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [60006C98-2605A381-C:4A]
-Good Name=ƒoƒCƒIƒŒƒ“ƒXƒLƒ‰[ TUROK NEW GENERATION (J)
+Good Name=ãƒã‚¤ã‚ªãƒ¬ãƒ³ã‚¹ã‚­ãƒ©ãƒ¼ TUROK NEW GENERATION (J)
 Internal Name=VIOLENCEKILLER
 RDRAM Size=8
 Counter Factor=2
@@ -16092,8 +16092,8 @@ Plugin Note=
 Audio Signal=No
 
 [045C08C4-4AFD798B-C:4A]
-Good Name=ƒo[ƒ`ƒƒƒ‹¥ƒvƒƒŒƒXƒŠƒ“ƒO64 (J)
-Internal Name=ÊŞ°Á¬Ù ÌßÛÚ½Øİ¸Ş 64
+Good Name=ãƒãƒ¼ãƒãƒ£ãƒ«ï½¥ãƒ—ãƒ­ãƒ¬ã‚¹ãƒªãƒ³ã‚°64 (J)
+Internal Name=ï¾Šï¾ï½°ï¾ï½¬ï¾™ ï¾Œï¾Ÿï¾›ï¾šï½½ï¾˜ï¾ï½¸ï¾ 64
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -16114,8 +16114,8 @@ Resolution Height=-1
 Audio Signal=No
 
 [CD094235-88074B62-C:4A]
-Good Name=ƒo[ƒ`ƒƒƒ‹ƒvƒƒŒƒX2 ‰¤“¹Œp³ (J)
-Internal Name=ÊŞ°Á¬Ù ÌßÛÚ½ 2
+Good Name=ãƒãƒ¼ãƒãƒ£ãƒ«ãƒ—ãƒ­ãƒ¬ã‚¹2 ç‹é“ç¶™æ‰¿ (J)
+Internal Name=ï¾Šï¾ï½°ï¾ï½¬ï¾™ ï¾Œï¾Ÿï¾›ï¾šï½½ 2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -16332,7 +16332,7 @@ Clear Frame=0
 Culling=1
 
 [5C9191D6-B30AC306-C:4A]
-Good Name=ƒEƒF[ƒuƒŒ[ƒX64 (J) (V1.0)
+Good Name=ã‚¦ã‚§ãƒ¼ãƒ–ãƒ¬ãƒ¼ã‚¹64 (J) (V1.0)
 Internal Name=WAVE RACE 64
 RDRAM Size=4
 Counter Factor=2
@@ -16382,7 +16382,7 @@ Delay SI=No
 SP Hack=No
 
 [535DF3E2-609789F1-C:4A]
-Good Name=ƒEƒF[ƒuƒŒ[ƒX64 U“®ƒpƒbƒN‘Î‰ƒo[ƒWƒ‡ƒ“ (J) (V1.2)
+Good Name=ã‚¦ã‚§ãƒ¼ãƒ–ãƒ¬ãƒ¼ã‚¹64 æŒ¯å‹•ãƒ‘ãƒƒã‚¯å¯¾å¿œãƒãƒ¼ã‚¸ãƒ§ãƒ³ (J) (V1.2)
 Internal Name=WAVE RACE 64
 RDRAM Size=4
 Counter Factor=3
@@ -16416,7 +16416,7 @@ Delay SI=No
 SP Hack=No
 
 [F1301043-FD80541A-C:4A]
-Good Name=ƒEƒFƒCƒ“¥ƒOƒŒƒcƒL[ 3DƒzƒbƒP[ (J)
+Good Name=ã‚¦ã‚§ã‚¤ãƒ³ï½¥ã‚°ãƒ¬ãƒ„ã‚­ãƒ¼ 3Dãƒ›ãƒƒã‚±ãƒ¼ (J)
 Internal Name=WGHOCKEY
 RDRAM Size=4
 Counter Factor=2
@@ -16696,7 +16696,7 @@ Resolution Width=-1
 Resolution Height=-1
 
 [DCB6EAFA-C6BBCFA3-C:4A]
-Good Name=ƒEƒGƒbƒgƒŠƒX (J)
+Good Name=ã‚¦ã‚¨ãƒƒãƒˆãƒªã‚¹ (J)
 Internal Name=wetrix
 RDRAM Size=8
 Counter Factor=3
@@ -16748,7 +16748,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [0CEBC4C7-0C9CE932-C:4A]
-Good Name=ƒƒCƒ‹ƒhƒ`ƒ‡ƒbƒp[ƒY (J)
+Good Name=ãƒ¯ã‚¤ãƒ«ãƒ‰ãƒãƒ§ãƒƒãƒ‘ãƒ¼ã‚º (J)
 Internal Name=WILD CHOPPERS
 RDRAM Size=4
 Counter Factor=2
@@ -16767,7 +16767,7 @@ Core Note=
 Plugin Note=[video] (see GameFAQ)
 
 [1FA056E0-A4B9946A-C:4A]
-Good Name=ƒEƒBƒ“ƒoƒbƒN (J) (V1.0)
+Good Name=ã‚¦ã‚£ãƒ³ãƒãƒƒã‚¯ (J) (V1.0)
 Internal Name=WIN BACK
 RDRAM Size=4
 Counter Factor=2
@@ -16852,7 +16852,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [E43C9765-05B1C1BE-C:4A]
-Good Name=ƒƒ“ƒ_[ƒvƒƒWƒFƒNƒgJ2 ƒRƒ‹ƒ‚ÌX‚ÌƒWƒ‡ƒ[ƒbƒg (J)
+Good Name=ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆJ2 ã‚³ãƒ«ãƒ­ã®æ£®ã®ã‚¸ãƒ§ã‚¼ãƒƒãƒˆ (J)
 Internal Name=WONDER PROJECT J2
 RDRAM Size=4
 Counter Factor=2
@@ -17145,8 +17145,8 @@ SP Hack=No
 Status=Compatible
 
 [12737DA5-23969159-C:4A]
-Good Name=WWFƒŒƒbƒXƒ‹ƒ}ƒjƒA2000 (J)
-Internal Name=Ú¯½ÙÏÆ± 2000
+Good Name=WWFãƒ¬ãƒƒã‚¹ãƒ«ãƒãƒ‹ã‚¢2000 (J)
+Internal Name=ï¾šï½¯ï½½ï¾™ï¾ï¾†ï½± 2000
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -17222,7 +17222,7 @@ Emulate Clear=0
 //Y
 //
 [9F8B96C3-A01194DC-C:4A]
-Good Name=–éŒõ’2 Elq˜H (J)
+Good Name=å¤œå…‰è™«2 æ®ºäººèˆªè·¯ (J)
 Internal Name=YAKOUTYUU2
 RDRAM Size=4
 Counter Factor=1
@@ -17269,7 +17269,7 @@ Resolution Width=320
 Resolution Height=240
 
 [2DCFCA60-8354B147-C:4A]
-Good Name=ƒˆƒbƒV[ƒXƒg[ƒŠ[ (J)
+Good Name=ãƒ¨ãƒƒã‚·ãƒ¼ã‚¹ãƒˆãƒ¼ãƒªãƒ¼ (J)
 Internal Name=YOSHI STORY
 RDRAM Size=4
 Counter Factor=2
@@ -17313,7 +17313,7 @@ Resolution Height=240
 Audio Signal=No
 
 [9FE6162D-E97E4037-C:4A]
-Good Name=‚ä‚¯‚ä‚¯!!ƒgƒ‰ƒuƒ‹ƒ[ƒJ[ƒY (J)
+Good Name=ã‚†ã‘ã‚†ã‘!!ãƒˆãƒ©ãƒ–ãƒ«ãƒ¡ãƒ¼ã‚«ãƒ¼ã‚º (J)
 Internal Name=TROUBLE MAKERS
 RDRAM Size=4
 Counter Factor=2
@@ -17331,7 +17331,7 @@ Status=Compatible
 //Z
 //
 [EC7011B7-7616D72B-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒi (J) (V1.0)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠ (J) (V1.0)
 Internal Name=THE LEGEND OF ZELDA
 RDRAM Size=4
 CPU Type=Recompiler
@@ -17360,7 +17360,7 @@ Cheat0=D109C5AC 0C02,8109C5AC 2400 //Subscreen Delay Fix
 Cheat1=D138E8CC 0C0E,8138E8CC 2400 //Equipment Screen Delay Fix
 
 [D43DA81F-021E1E19-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒi (J) (V1.1)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠ (J) (V1.1)
 Internal Name=THE LEGEND OF ZELDA
 RDRAM Size=4
 CPU Type=Recompiler
@@ -17389,7 +17389,7 @@ Cheat0=D109C5BC 0C02,8109C5BC 2400 //Subscreen Delay Fix
 Cheat1=D138EA6C 0C0E,8138EA6C 2400 //Equipment Screen Delay Fix
 
 [693BA2AE-B7F14E9F-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒi (J) (V1.2)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠ (J) (V1.2)
 Internal Name=THE LEGEND OF ZELDA
 RDRAM Size=4
 CPU Type=Recompiler
@@ -17418,7 +17418,7 @@ Cheat0=D109CC9C 0C02,8109CC9C 2400 //Subscreen Delay Fix
 Cheat1=D138F07C 0C0E,8138F07C 2400 //Equipment Screen Delay Fix
 
 [F611F4BA-C584135C-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒiGC (J) (GC)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠGC (J) (GC)
 Internal Name=THE LEGEND OF ZELDA
 RDRAM Size=4
 CPU Type=Recompiler
@@ -17446,7 +17446,7 @@ Cheat0=801DB78B 0002 //Subscreen Delay Fix
 Cheat1=D109A834 0320,8109A834 0000,D109A836 F809,8109A836 0000 //End Credits Fix
 
 [F43B45BA-2F0E9B6F-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒiGC —  (J) (GC)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠGC è£ (J) (GC)
 Internal Name=THE LEGEND OF ZELDA
 DRAM Size=4
 CPU Type=Recompiler
@@ -17474,7 +17474,7 @@ Cheat0=801DB78B 0002 //Subscreen Delay Fix
 Cheat1=D109A814 0320,8109A814 0000,D109A816 F809,8109A816 0000 //End Credits Fix
 
 [F7F52DB8-2195E636-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ‚ÌƒIƒJƒŠƒi ƒ[ƒ‹ƒ_ƒRƒŒƒNƒVƒ‡ƒ“”Å (J) (GC)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ æ™‚ã®ã‚ªã‚«ãƒªãƒŠ ã‚¼ãƒ«ãƒ€ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ç‰ˆ (J) (GC)
 Internal Name=THE LEGEND OF ZELDA
 RDRAM Size=4
 CPU Type=Recompiler
@@ -17502,7 +17502,7 @@ Cheat0=801DB78B 0002 //Subscreen Delay Fix
 Cheat1=D109A814 0320,8109A814 0000,D109A816 F809,8109A816 0000 //End Credits Fix
 
 [EC417312-EB31DE5F-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ƒ€ƒWƒ…ƒ‰‚Ì‰¼–Ê (J) (V1.0)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ ãƒ ã‚¸ãƒ¥ãƒ©ã®ä»®é¢ (J) (V1.0)
 Internal Name=THE MASK OF MUJURA
 RDRAM Size=8
 CPU Type=Recompiler
@@ -17528,7 +17528,7 @@ Emulate Clear=1
 Audio Signal=No
 
 [69AE0438-2C63F3F3-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ƒ€ƒWƒ…ƒ‰‚Ì‰¼–Ê (J) (V1.1)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ ãƒ ã‚¸ãƒ¥ãƒ©ã®ä»®é¢ (J) (V1.1)
 Internal Name=THE MASK OF MUJURA
 RDRAM Size=8
 CPU Type=Recompiler
@@ -17554,7 +17554,7 @@ Emulate Clear=1
 Audio Signal=No
 
 [8473D0C1-23120666-C:4A]
-Good Name=ƒ[ƒ‹ƒ_‚Ì“`à ƒ€ƒWƒ…ƒ‰‚Ì‰¼–Ê ƒ[ƒ‹ƒ_ƒRƒŒƒNƒVƒ‡ƒ“”Å (J) (GC)
+Good Name=ã‚¼ãƒ«ãƒ€ã®ä¼èª¬ ãƒ ã‚¸ãƒ¥ãƒ©ã®ä»®é¢ ã‚¼ãƒ«ãƒ€ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ç‰ˆ (J) (GC)
 Internal Name=ZELDA MAJORA'S MASK
 RDRAM Size=8
 CPU Type=Recompiler
@@ -17580,8 +17580,8 @@ Emulate Clear=1
 Audio Signal=No
 
 [1C010CCD-22D3B7FA-C:4A]
-Good Name=ƒY[ƒ‹ –‚bg‚¢“`à (J)
-Internal Name=½Ş°Ù Ï¼Ş­³Â¶²ÃŞİ¾Â
+Good Name=ã‚ºãƒ¼ãƒ« é­”ç£ä½¿ã„ä¼èª¬ (J)
+Internal Name=ï½½ï¾ï½°ï¾™ ï¾ï½¼ï¾ï½­ï½³ï¾‚ï½¶ï½²ï¾ƒï¾ï¾ï½¾ï¾‚
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -17652,7 +17652,7 @@ Core Note?
 
 [8E248649-2E1CDE52-C:0]
 Good Name=Fire_Demo_by_Lac_(PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -17794,7 +17794,7 @@ Plugin Note=
 
 [B0667DED-BB39A4B8-C:0]
 Good Name=Absolute Crap Intro 1 by Kid Stardust (PD)
-Internal Name=®
+Internal Name=ï½®
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -17813,7 +17813,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [2E7E893C-4E68B642-C:0]
 Good Name=Absolute Crap Intro 2 by Lem (PD)
-Internal Name=Ğ*˜
+Internal Name=ï¾*
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18006,7 +18006,7 @@ Plugin Note=
 
 [2D15DC8C-D3BBDB52-C:0]
 Good Name=Boot Emu by Jovis (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18044,7 +18044,7 @@ Plugin Note=
 
 [EDA1A0C7-58EE0464-C:0]
 Good Name=Chaos 89 Demo (PD)
-Internal Name=Ğ*˜
+Internal Name=ï¾*
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18158,7 +18158,7 @@ Plugin Note=
 
 [0E3ED77B-8E1C26FD-C:0]
 Good Name=Cube Demo (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18273,7 +18273,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [D7484C2A-56CFF26D-C:45]
 Good Name=DS1 Manager 1.1 by RBubba (PD)
-Internal Name=®
+Internal Name=ï½®
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18786,7 +18786,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [714001E3-2EB04B67-C:0]
 Good Name=Freekworld BBS Intro by Rene (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18938,7 +18938,7 @@ Plugin Note=
 
 [4072572D-A23DB72C-C:45]
 Good Name=HiRes CFB Demo (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -18996,7 +18996,7 @@ Plugin Note=
 
 [64709212-699BCF3B-C:0]
 Good Name=Kid Stardust Intro with Sound by Kid Stardust (PD)
-Internal Name=(˜
+Internal Name=(
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19072,7 +19072,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [8A8E474B-6458BF2B-C:0]
 Good Name=Liner V1.00 by Colin Phillipps of Memir (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19377,7 +19377,7 @@ Plugin Note=
 
 [71255651-C6AE0EA6-C:0]
 Good Name=N64 Stars Demo (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19415,7 +19415,7 @@ Plugin Note=
 
 [15DB95D4-77BC52D8-C:45]
 Good Name=NBC First Intro by CALi (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19548,7 +19548,7 @@ Plugin Note=?
 
 [84067BAC-87FBA623-C:45]
 Good Name=NBCrew 2 Demo (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19624,7 +19624,7 @@ Plugin Note=
 
 [D1C6C55D-F010EF52-C:0]
 Good Name=Nintendo WideBoy 64 by SonCrap (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -19795,7 +19795,7 @@ Plugin Note=
 
 [D072CFE7-CE134788-C:0]
 Good Name=Pip's Pong by Mr. Pips (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20042,7 +20042,7 @@ Plugin Note=
 
 [45627CED-28005F9C-C:0]
 Good Name=Pipendo by Mr. Pips (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20080,7 +20080,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [E9F52336-6BEFAA5F-C:45]
 Good Name=Plasma Demo (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20232,7 +20232,7 @@ Plugin Note=
 
 [DAA76993-D8ACF77C-C:0]
 Good Name=Pong by Oman (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20349,7 +20349,7 @@ Plugin Note=
 
 [6FA4B821-29561690-C:0]
 Good Name=Rotating Demo USA by Rene (PD) [a1]
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20368,7 +20368,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [79E318E1-86861726-C:0]
 Good Name=RPA Site Intro by Lem (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20444,7 +20444,7 @@ Plugin Note=
 
 [18531B7D-074AF73E-C:0]
 Good Name=Simon for N64 V0.1a by Jean-Luc Picard (POM '99) (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20463,7 +20463,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [C603175E-ACADF5EC-C:45]
 Good Name=Sinus (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20758,7 +20758,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [EC9BECFF-CAB83632-C:0]
 Good Name=SRAM Uploader-Editor by BlackBag (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -20796,7 +20796,7 @@ Plugin Note=
 
 [BB214F79-8B88B16B-C:0]
 Good Name=Super Bomberman 2 by Rider (POM '99) (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -21106,7 +21106,7 @@ Plugin Note=?
 
 [BB752DA7-30D8BEF4-C:0]
 Good Name=Universal Bootemu V1.1 (PD)
-Internal Name=¢r [xg
+Internal Name=ï½¢r [xg
 RDRAM Size=8
 Counter Factor=Default
 Save Type=First Save Type
@@ -21125,7 +21125,7 @@ Plugin Note=?
 
 [5F44492A-18552A0A-C:0]
 Good Name=Unix SRAM-Upload Utility 1.0 by Madman (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -21144,7 +21144,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [3B8E7E01-6AE876A8-C:0]
 Good Name=UPload SRAM V1 by LaC (PD)
-Internal Name=p&˜
+Internal Name=p&
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -21163,7 +21163,7 @@ Plugin Note=[video] fullscreen res issues; use D3D6
 
 [760EF304-AD6D6A7C-C:45]
 Good Name=V64Jr 512M Backup Program by HKPhooey (PD)
-Internal Name=h¼
+Internal Name=hï½¼
 RDRAM Size=Default
 Counter Factor=Default
 Save Type=First Save Type
@@ -21479,7 +21479,7 @@ Core Note=?
 
 [BC9B2CC3-4ED04DA5-C:37]
 Good Name=StarCraft 64 (Beta)
-Internal Name=Á2ÙüÑ8y)±tU…y7àÕ]¹9
+Internal Name=ï¾2ï¾™ï¿½8y)ï½±tUæ°´y7ç¨]ï½¹9
 RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
@@ -21579,7 +21579,7 @@ Core Note=
 //New entry in Official RDB that not marked on GoodN64
 
 [7435C9BB-39763CF4-C:4A]
-Good Name=ƒfƒBƒfƒB[ƒRƒ“ƒOƒŒ[ƒVƒ“ƒO (J)
+Good Name=ãƒ‡ã‚£ãƒ‡ã‚£ãƒ¼ã‚³ãƒ³ã‚°ãƒ¬ãƒ¼ã‚·ãƒ³ã‚° (J)
 Internal Name=Diddy Kong Racing
 RDRAM Size=4
 Counter Factor=2
@@ -21640,7 +21640,7 @@ Core Note=(see GameFAQ)
 Plugin Note=
 
 [44995484-20A5FC5E-C:4A]
-Good Name=ƒEƒF[ƒuƒŒ[ƒX64 (J) (V1.1)
+Good Name=ã‚¦ã‚§ãƒ¼ãƒ–ãƒ¬ãƒ¼ã‚¹64 (J) (V1.1)
 Internal Name=WAVE RACE 64
 RDRAM Size=4
 Counter Factor=2
@@ -21656,8 +21656,8 @@ Delay SI=No
 SP Hack=No
 
 [7365D8F8-9ED9326F-C:4A]
-Good Name=–qê•¨Œê2 (J) (V1.1)
-Internal Name=ÎŞ¸¼Ş®³ÓÉ¶ŞÀØ2
+Good Name=ç‰§å ´ç‰©èª2 (J) (V1.1)
+Internal Name=ï¾ï¾ï½¸ï½¼ï¾ï½®ï½³ï¾“ï¾‰ï½¶ï¾ï¾€ï¾˜2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -21673,8 +21673,8 @@ Resolution Width=-1
 Resolution Height=-1
 
 [736657F6-3C88A702-C:4A]
-Good Name=–qê•¨Œê2 (J) (V1.2)
-Internal Name=ÎŞ¸¼Ş®³ÓÉ¶ŞÀØ2
+Good Name=ç‰§å ´ç‰©èª2 (J) (V1.2)
+Internal Name=ï¾ï¾ï½¸ï½¼ï¾ï½®ï½³ï¾“ï¾‰ï½¶ï¾ï¾€ï¾˜2
 RDRAM Size=4
 Counter Factor=2
 Save Type=First Save Type
@@ -21732,7 +21732,7 @@ Core Note=
 Plugin Note=
 
 [C6CE0AAA-D117F019-C:4A]
-Good Name=JƒŠ[ƒO ƒ^ƒNƒeƒBƒNƒXƒTƒbƒJ[ (J) (V1.1)
+Good Name=Jãƒªãƒ¼ã‚° ã‚¿ã‚¯ãƒ†ã‚£ã‚¯ã‚¹ã‚µãƒƒã‚«ãƒ¼ (J) (V1.1)
 Internal Name=TACTICS SOCCER
 RDRAM Size=4
 Counter Factor=2
@@ -21746,7 +21746,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [575F340B-9F1398B2-C:4A]
-Good Name=À‹µG1ƒXƒeƒCƒuƒ‹ (J) (V1.1)
+Good Name=å®Ÿæ³G1ã‚¹ãƒ†ã‚¤ãƒ–ãƒ« (J) (V1.1)
 Internal Name=G1STABLE
 RDRAM Size=4
 Counter Factor=1
@@ -21760,7 +21760,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [6309FC17-1D4F5EF3-C:4A]
-Good Name=À‹µJƒŠ[ƒO 1999 ƒpƒtƒFƒNƒgƒXƒgƒ‰ƒCƒJ[2 (J) (V1.1)
+Good Name=å®Ÿæ³Jãƒªãƒ¼ã‚° 1999 ãƒ‘ãƒ•ã‚§ã‚¯ãƒˆã‚¹ãƒˆãƒ©ã‚¤ã‚«ãƒ¼2 (J) (V1.1)
 Internal Name=PERFECT STRIKER2
 RDRAM Size=4
 Counter Factor=2
@@ -21778,7 +21778,7 @@ SP Hack=No
 Core Note=
 
 [1C8CDF74-F761051F-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…5 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ5 (J) (V1.1)
 Internal Name=PAWAFURU PUROYAKYU5
 RDRAM Size=4
 Counter Factor=2
@@ -21792,7 +21792,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [AC173077-5A14C012-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…5 (J) (V1.2)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ5 (J) (V1.2)
 Internal Name=PAWAFURU PUROYAKYU5
 RDRAM Size=4
 Counter Factor=2
@@ -21806,7 +21806,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [3C084040-081B060C-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…6 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ6 (J) (V1.1)
 Internal Name=PAWAFURU PUROYAKYU6
 RDRAM Size=4
 Counter Factor=2
@@ -21820,7 +21820,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [438E6026-3BA24E07-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹…6 (J) (V1.2)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ6 (J) (V1.2)
 Internal Name=PAWAFURU PUROYAKYU6
 RDRAM Size=4
 Counter Factor=2
@@ -21834,7 +21834,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [B00E3829-29F232D1-C:4A]
-Good Name=À‹µƒpƒƒtƒ‹ƒvƒ–ì‹… Basic”Å 2001 (J) (V1.1)
+Good Name=å®Ÿæ³ãƒ‘ãƒ¯ãƒ•ãƒ«ãƒ—ãƒ­é‡çƒ Basicç‰ˆ 2001 (J) (V1.1)
 Internal Name=PAWAPURO 2001B
 RDRAM Size=4
 Counter Factor=2
@@ -21848,7 +21848,7 @@ Use Large Buffer=No
 Status=Compatible
 
 [734F816B-C6A6EB67-C:4A]
-Good Name=ƒ}ƒŠƒIƒSƒ‹ƒt64 (J) (V1.1)
+Good Name=ãƒãƒªã‚ªã‚´ãƒ«ãƒ•64 (J) (V1.1)
 Internal Name=MarioGolf64
 RDRAM Size=4
 Counter Factor=2
@@ -21874,7 +21874,7 @@ Emulate Clear=0
 Audio Signal=No
 
 [0AE2B37C-FBC174F0-C:4A]
-Good Name=ƒvƒ–ƒ ‹É64 (J) (V1.1)
+Good Name=ãƒ—ãƒ­éº»é›€ æ¥µ64 (J) (V1.1)
 Internal Name=KIWAME 64
 RDRAM Size=4
 Counter Factor=1
@@ -21891,7 +21891,7 @@ Audio Signal=No
 SP Hack=No
 
 [65AEDEEF-3857C728-C:4A]
-Good Name=ƒXƒ^[ƒtƒHƒbƒNƒX64 (J) (V1.1)
+Good Name=ã‚¹ã‚¿ãƒ¼ãƒ•ã‚©ãƒƒã‚¯ã‚¹64 (J) (V1.1)
 Internal Name=STARFOX64
 RDRAM Size=4
 Counter Factor=2
@@ -21910,7 +21910,7 @@ Plugin Note=
 Audio Signal=No
 
 [C52E0BC6-56BC6556-C:4A]
-Good Name=ƒEƒBƒ“ƒoƒbƒN (J) (V1.1)
+Good Name=ã‚¦ã‚£ãƒ³ãƒãƒƒã‚¯ (J) (V1.1)
 Internal Name=WIN BACK
 RDRAM Size=4
 Counter Factor=2
@@ -21929,7 +21929,7 @@ Core Note=
 Audio Signal=No
 
 [E0044E9E-CD659D0D-C:4A]
-Good Name=ƒ|ƒPƒ‚ƒ“ƒXƒiƒbƒv (J) (V1.1)
+Good Name=ãƒã‚±ãƒ¢ãƒ³ã‚¹ãƒŠãƒƒãƒ— (J) (V1.1)
 Internal Name=POKEMON SNAP
 RDRAM Size=4
 Counter Factor=2
@@ -21950,8 +21950,8 @@ Cheat0=D136D22C 802A,8036D21F 0000 //Pass 1st Level and Controller Fix
 Cheat1=D11E1EC4 2881,811E1EC4 2001,D11E1EC6 0098,811E1EC6 0001 //Make Picture selectable
 
 [C5F1DE79-5D4BEB6E-C:4A]
-Good Name=‚Ê‚µ’Ş‚è64 (J) (V1.1)
-Internal Name=Ç¼ÂŞØ64
+Good Name=ã¬ã—é‡£ã‚Š64 (J) (V1.1)
+Internal Name=ï¾‡ï½¼ï¾‚ï¾ï¾˜64
 RDRAM Size=4
 Counter Factor=1
 Save Type=First Save Type
@@ -22650,6 +22650,49 @@ Clear Frame=0
 Audio Signal=No
 Core Note=(see GameFAQ)
 Plugin Note=(audio] (See Gamefaq)
+
+[47837A55-15B45C5B-C:4A]
+Good Name=ã‚¨ã‚¢ãƒ­ã‚²ã‚¤ã‚¸ (J) (V1.2) 
+Internal Name=AEROGAUGE
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=No
+Linking=Global
+Reg Cache=Yes
+Use Large Buffer=No
+Delay SI=No
+SP Hack=No
+Status=Compatible
+Core Note=
+Plugin Note=
+
+[F308B168-8DB1F4BB-C:4A]
+Good Name=ãŒã‚“ã°ã‚Œã‚´ã‚¨ãƒ¢ãƒ³ ãƒã‚ªæ¡ƒå±±å¹•åºœã®ãŠã©ã‚Š (J) (V1.1)
+Internal Name=GANBARE GOEMON
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Global
+Reg Cache=Yes
+Use Large Buffer=No
+Status=Issues (plugin)
+Plugin Note=[video] slow
+Delay SI=No
+SP Hack=No
+Core Note=
+Clear Frame=0
+Self Texture=0
+Primary Frame Buffer=0
+Culling=1
+Emulate Clear=0
+Resolution Width=319
+Resolution Height=239
 
 //Any entries below this point are for ROMs you have added via the GUI
 //[EOF]
