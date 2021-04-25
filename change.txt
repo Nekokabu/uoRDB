@@ -1,5 +1,5 @@
 
-UnOfficial ROM Database (Project64.rdb) v4.23 (2012/7/31)
+UnOfficial ROM Database (Project64.rdb) v4.24 (2021/4/25)
 Changes since Official RDB v1.6.016
 
 
@@ -126,6 +126,8 @@ New Entry Roms:
 	[C006E3C0-A67B4BBB-C:50]	F-1 World Grand Prix (E)
 	[665FC793-6934A73B-C:44]	Turok - Dinosaur Hunter (G) (V1.1)/(V1.2)
 	[847BA4C2-1D3128F8-C:4A]	IPL4ROM (J)
+	[47837A55-15B45C5B-C:4A]	AeroGauge (J) (V1.2)
+	[F308B168-8DB1F4BB-C:4A]	Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) (V1.1)
 	[C6CE0AAA-D117F019-C:4A]	J.League Tactics Soccer (J) (V1.1)
 	[575F340B-9F1398B2-C:4A]	Jikkyou G1 Stable (J) (V1.1)
 	[6309FC17-1D4F5EF3-C:4A]	Jikkyou J.League 1999 - Perfect Striker 2 (J) (V1.1)
@@ -209,7 +211,7 @@ the following ROMs have other types of name changes - these *were* renamed in th
 	N:"Turok - Dinosaur Hunter (G) (V1.0)"						O:"Turok - Dinosaur Hunter (G)"
 	N:"G.A.S.P!! Fighters' NEXTream (J)"						O:"G.A.S.P!! Fighter's NEXTream (J)"
 	N:"Goemon - Mononoke Sugoroku (J)"						O:"Ganbare Goemon - Mononoke Sugoroku (J)"
-	N:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"				O:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"
+	N:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) (V1.0)"				O:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"
 	N:"Ganbare! Nippon! Olympics 2000 (J)"						O:"Ganbare Nippon! Olympics 2000 (J)"
 	N:"Getter Love!! - Cho Ren-ai Party Game (J)"					O:"Getter Love!! (J)"
 	N:"Harukanaru Augusta - Masters '98 (J)"					O:"Harukanaru Augusta Masters 98 (J)"
