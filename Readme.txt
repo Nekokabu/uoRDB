@@ -1,5 +1,6 @@
 ================================================
-    Project64 Unofficial RDB v4.23
+    Project64 Unofficial RDB v4.24
+                     (for PJ64 v1.6)
                          by Nekokabu & MASA
 ================================================
 
@@ -38,6 +39,15 @@ http://nekokabu.s7.xrea.com/wiki/
 ************************
 Changes
 ************************
+2021-4-25 uoRDB 4.23 ->  uoRDB 4.24
+	*Added Game:
+		[47837A55-15B45C5B-C:4A]	AeroGauge (J) (V1.2)
+		[F308B168-8DB1F4BB-C:4A]	Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) (V1.1)
+
+	*Changed Good Name:
+		N:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J) V1.0)"				O:"Ganbare Goemon - Neo Momoyama Bakufu no Odori (J)"
+
+------------------------------------------------------------------------
 2012-7-31 uoRDB 4.22 ->  uoRDB 4.23
 	*Changed Setting:
 		Jangou Simulation Mahjong Dou 64 (J)	Chnanged Status to Compatible, added Cheat0=D101BDA6 1FFF,8101BDA6 107F
